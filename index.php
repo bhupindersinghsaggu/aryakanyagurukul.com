@@ -35,7 +35,7 @@
 
   <!-- <link rel="stylesheet" href="./css/demo.css"> -->
   <link rel="icon" type="image/png" href="assets/images/favicon.png" />
-  <title>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana</title>
+  <title>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana -</title>
 </head>
 
 <body>
