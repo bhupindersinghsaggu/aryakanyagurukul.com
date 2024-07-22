@@ -1,0 +1,472 @@
+.result-img{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+.header-login .link {
+  font-size: 14px;
+  font-weight: 500;
+  color: #2f2a55;
+  position: relative;
+  display: inline-block;
+  border: 0;
+  padding: 0;
+  background: none;
+  padding-right: 10px;
+}
+
+.justify {
+  text-align: justify;
+}
+
+@media only screen and (max-width: 1199px) {
+  .header-logo a img {
+    width: 188px;
+  }
+}
+
+.offcanvas-logo a img {
+  width: 209px;
+}
+
+.upstudy-hero-section-06 {
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.upstudy-team-profile-section
+  .team-profile-description-wrap
+  .team-profile-description {
+  margin-top: 0px;
+}
+
+.upstudy-team-profile-section .team-profile {
+  background: #ffffff;
+  box-shadow: 0px 0px 114px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 231px;
+  padding: 20px;
+}
+
+.upstudy-team-profile-section .team-profile .profile-img img {
+  width: 100%;
+  border-radius: 224px;
+}
+
+.section-padding1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* .upstudy-about-section-03 .about-img-wrap .about-img-bottom {
+    position: absolute;
+    right: -124px;
+    bottom: 26px;
+}
+
+.upstudy-about-section-03 .about-img-wrap .about-img-sm {
+    padding-left: 44px;
+    margin-top: 30px;
+} */
+
+@media only screen and (max-width: 1199px) {
+  .upstudy-team-profile-section .team-profile-description-wrap {
+    padding-left: 0;
+    padding-top: 16px;
+  }
+}
+
+.heading-color {
+  color: #f6520a;
+}
+.icon-bar-right {
+  position: fixed;
+  top: 50%;
+  z-index: 99 !important;
+  right: 0px;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  margin-right: 7px;
+}
+
+/* Style the icon bar links */
+.icon-bar-right a {
+  display: block;
+  text-align: center;
+  padding: 0px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar-right a:hover {
+  background-color: #000;
+}
+
+/* The side navigation menu */
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 9999 !important;
+  top: 0;
+  right: 0;
+  background-color: #fafafa;
+  overflow-x: hidden;
+  padding-top: 60px;
+  transition: 0.5s;
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  border-left: solid 2px #fcff23;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #ced3f3;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn1 {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+iframe {
+  /* border: solid 1px #eee; */
+  border-radius: 8px;
+}
+
+.upstudy-cta-section-02 {
+  background: #f6520a;
+  padding-top: 110px;
+  padding-bottom: 170px;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.team-img {
+  padding-bottom: 20px;
+}
+
+.about-text {
+  font-size: 18px;
+  line-height: 40px;
+}
+.text {
+  font-weight: 600;
+}
+
+.page-banner .title {
+  font-size: 42px;
+  line-height: 52px;
+  font-family: "Outfit", sans-serif;
+  display: inline-block;
+  font-weight: 600;
+  color: #2f2a55;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+
+.team-info {
+  padding: 30px 0px 0;
+  transition: 0.3s;
+  position: relative;
+  text-align: center;
+}
+
+.team-area2 .team-info {
+  padding-bottom: 30px;
+}
+.team-info h4 {
+  font-size: 24px;
+  margin-bottom: 5px;
+  transition: 0.3s;
+}
+
+.header-2 .header-top {
+  font-weight: 300;
+  font-size: 1.4rem;
+  background-color: #fff;
+}
+
+.cityline {
+  font-size: 4.6rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: #222;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  line-height: 1.4em;
+}
+
+.productheading {
+  color: #333;
+  font-weight: 600;
+  font-size: 2.4rem;
+  letter-spacing: -0.025em;
+  margin-bottom: 1.4rem;
+  background: antiquewhite;
+  padding: 3px;
+}
+
+.banner img {
+  display: block;
+  max-width: none;
+  width: 100%;
+  height: auto;
+  padding-top: 20px;
+}
+
+.myimage {
+  display: block;
+  position: relative;
+  margin-bottom: 2rem;
+  padding-top: 20px;
+}
+
+@media (min-width: 480px) {
+  .loginbr {
+    width: 42px;
+  }
+}
+
+.blog-one__image {
+  position: relative;
+  overflow: hidden;
+}
+
+.modal-title {
+  text-align: center;
+  padding-top: 20px;
+  color: #f16101;
+  font-size: 31px;
+}
+
+.sidebar__category-list-item {
+  line-height: 27px;
+}
+
+.cbse-img {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ea050573;
+  border-top: 0;
+  background-color: #fff;
+}
+
+.team-one__name1 {
+  background: #d85a05;
+  padding: 3px;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .close {
+    margin-right: 63px;
+    margin-top: 23px;
+  }
+}
+
+.video {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.upstudy-about-section-05 .about-img-item .about-content p {
+  font-size: 16px;
+  line-height: 30px;
+  color: #000000;
+  margin-top: 10px;
+}
+
+.features-item .features-content p {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #000000;
+  margin-top: 15px;
+}
+
+.upstudy-about-section-02 .about-content .text {
+  font-size: 18px;
+  line-height: 36px;
+  color: #3c3737;
+  margin-top: 45px;
+}
+
+.upstudy-features-section-03 .features-item-03 .features-content p {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.upstudy-team-profile-section
+  .team-profile-description-wrap
+  .team-profile-description
+  p {
+  font-size: 15px;
+  line-height: 30px;
+  color: #000;
+}
+
+.single-blog-post .blog-content p {
+  font-size: 16px;
+  line-height: 30px;
+  color: #000000;
+  margin-top: 1px;
+  padding-bottom: 5px;
+}
+
+@media (max-width: 320px) {
+  .upstudy-hero-section-06 {
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+@media (max-width: 480px) {
+  .upstudy-hero-section-06 {
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.carousel slide carousel-fade pointer-event {
+  margin-top: 70px;
+}
+
+.page-banner-section {
+  padding-top: 128px;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* .section-title-3 .title {
+  font-size: 27px;
+  line-height: 52px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  color: #1e1e1e;
+  margin-top: 25px;
+} */
+
+.about-text {
+  font-size: 18px;
+  line-height: 34px;
+}
+
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1500px;
+  }
+}
+
+.box-design1 {
+  background: aquamarine;
+  padding: 20px;
+  border-radius: 19px;
+}
+
+.box-design2 {
+  background: #fb550c85;
+  padding: 20px;
+  border-radius: 19px;
+}
+
+.box-design3 {
+  background: #e1aaeb;
+  padding: 20px;
+  border-radius: 19px;
+}
+
+
+.my-image {
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #106eea1f;
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0 0 30px 0 rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 30px 0 #0000006e;
+}
+
+
+
+
+.stm{
+    background: beige;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 11px;
+}
+
+<div class="section upstudy-blog-section section-padding" style="background-color: aliceblue;">
+    <div class="container">
+        <!-- Latest Blog Wrap Start -->
+        <div class="blog-wrap">
+           
+        </div>
+        <!-- Blog Wrap End -->
+    </div>
+</div>
