@@ -178,14 +178,12 @@ include('_web/header.php')
                                 तो अपने उद्देश्यों की सिद्धि के लिए अन्योन्याश्रित है|
                                 गुरुकुल भी उनकी सफलता में बहुत बड़े साधक है।
                             </p>
-                            <h3 style="color: #f6520a;padding-top:90px;">Announcements</h3>
-                            <iframe
-                                src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGCE"
-                                height="400" width="600"></iframe>
+
                         </div>
                     </div>
+
                     <div class="featured-item style-1 mt-4"></div>
-                    <div class="row align-items-center mt-6">
+                    <!-- <div class="row align-items-center mt-6">
                         <div class="col-sm-4">
                             <a href="about-college.php" class="primary-btn">
                                 <span>About us</span>
@@ -193,20 +191,13 @@ include('_web/header.php')
                         </div>
                         <div class="col-sm-8 mt-4 mt-sm-0">
                             <div class="call-action-box d-flex align-items-center">
-                                <!-- <div class="flex-shrink-0 call-icon">
-                        <i class="flaticon-phone-call"></i>
-                      </div> -->
-                                <!-- <div class="flex-grow-1 ms-3">
-                        <span class="d-block text-black"
-                          >Need Any Question</span
-                        >
-                        <h6 class="mb-0">
-                          <a href="tel:+91 98968 98005">+91 98968 98005</a>
-                        </h6>
-                      </div> -->
                             </div>
                         </div>
-                    </div>
+                    </div> -->
+                    <h3 style="color: #f6520a;padding-top:10px;"></h3>
+                    <iframe
+                        src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGCE"
+                        height="200" width="600"></iframe>
                 </div>
             </div>
         </div>
@@ -561,5 +552,5 @@ include('_web/header.php')
     <!--footer start-->
     <?php
 
-  include('_web/footer.php')
-  ?>
+    include('_web/footer.php')
+    ?>
