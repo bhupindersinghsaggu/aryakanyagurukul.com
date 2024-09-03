@@ -27,7 +27,7 @@
             <a href="academics.php">Academics</a>
           </li>
  <li class="mb-3">
-            <a href="terms-conditions.php">Terms & Conditions</a>
+            <a href="/akgcos/terms&conditions.pdf">Terms & Conditions</a>
           </li>
         </ul>
       </div>
