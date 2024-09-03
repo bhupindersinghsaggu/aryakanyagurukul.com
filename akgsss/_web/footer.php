@@ -30,7 +30,7 @@
                                         SLC</a></li>
                                 <li><a href="enquiry.php">
                                         Enquiry</li></a>
-                                <li><a href="/akgsss/terms&conditions.pdf">
+                                <li><a href="terms-conditions.php">
                                 Terms & Conditions</li></a>
                             </ul>
                         </div>
