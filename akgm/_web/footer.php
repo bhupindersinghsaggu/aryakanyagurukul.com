@@ -24,7 +24,7 @@
                                         PLAN (IDP)</a></li>
                                 <li><a href="assets/images/pdf/nep.pdf">National Education Policy (NEP)</a></li>
                                 <li><a href="annual-reports.php">Annual Reports</a></li>
-                                 <li><a href="/akgm/terms&conditions.pdf">Terms & Conditions</a></li>
+                                 <li><a href="/assets/images/terms&conditions.pdf">Terms & Conditions</a></li>
                                
                             </ul>
                         </div>
