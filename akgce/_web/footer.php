@@ -76,7 +76,7 @@
                                     </a>
                                 </li>
                                  <li>
-                                     <a href="/akgce/terms&conditions.pdf"> Terms & Conditions</a>
+                                     <a href="terms-conditions.php"> Terms & Conditions</a>
                                 </li>
 
                                
