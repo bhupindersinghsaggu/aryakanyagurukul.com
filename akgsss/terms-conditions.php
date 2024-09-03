@@ -39,9 +39,9 @@ include('_web/header.php')
                     <div class="blog-post-wrap">
                         <!-- Single Blog Start -->
                         <div class="single-blog single-blog-post">
-                            <div class="blog-img">
+                            <!-- <div class="blog-img">
                                 <a href=""><img src="assets/images/about-gurukul.jpg" alt=""></a>
-                            </div>
+                            </div> -->
                             <div class="blog-content">
                                 <h2>नियम और शर्तें</h2>
 
