@@ -206,6 +206,52 @@ include('_web/header.php');
                             </td>
                             <td width="142"><strong>&nbsp;<a href="img/staff/b.ed/GARIMA.jpg" rel="attachment wp-att-728"><img loading="lazy" class="alignnone size-medium wp-image-728" src="img/staff/b.ed/dr.rajnirani.jpg"></a></strong></td>
                         </tr>
+                        <tr>
+                            <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>6</span></p>
+                            </td>
+                            <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Ms. Meenu</span></p>
+                            </td>
+                            <td style="width: 116.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Assistant Professor in <strong>Teaching of Commerce</strong></span></p>
+                            </td>
+                            <td style="width: 78.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>22.07.2024</span></p>
+                            </td>
+                            <td style="width: 188.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-family:"Arial","sans-serif";'>M.Com., B.Ed.,
+                                        M.Ed., UGC NET (Commerce)
+                                        UGC NET (Edu.)</span></p>
+                            </td>
+                            <td style="width:74.85pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:44.2pt;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>4 Year</span></p>
+                            </td>
+                            <td width="142"><strong>&nbsp;<a href="img/staff/b.ed/GARIMA.jpg" rel="attachment wp-att-728"><img loading="lazy" class="alignnone size-medium wp-image-728" src="img/staff/b.ed/meenu.jpg"></a></strong></td>
+                        </tr>
+                        <tr>
+                            <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>7</span></p>
+                            </td>
+                            <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Ms.Sonia Devi</span></p>
+                            </td>
+                            <td style="width: 116.45pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Assistant Professor in <strong>Teaching of Economics</strong></span></p>
+                            </td>
+                            <td style="width: 78.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>22.07.2024</span></p>
+                            </td>
+                            <td style="width: 188.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-family:"Arial","sans-serif";'>"M.A. (Economics) B.Ed.,
+                                        M.Ed.,UGC NET (Eco.) "
+                                    </span></p>
+                            </td>
+                            <td style="width:74.85pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:44.2pt;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>4 Year</span></p>
+                            </td>
+                            <td width="142"><strong>&nbsp;<a href="img/staff/b.ed/GARIMA.jpg" rel="attachment wp-att-728"><img loading="lazy" class="alignnone size-medium wp-image-728" src="img/staff/b.ed/sonia2.jpg"></a></strong></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
