@@ -119,7 +119,7 @@
 
     <div class="pay-online">
         <a href="https://curtina.in/mkk/forms/frmstdPayOnline.aspx" target="_blank"><img onclick="topFunction()"
-                id="btnGoToTop" src="images/ss.png" alt=""></a>
+                id="btnGoToTop" src="/akgce/ss.png" alt=""></a>
     </div>
     <div class="copyright-wrap">
         <div class="container">
