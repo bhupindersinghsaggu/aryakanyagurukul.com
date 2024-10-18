@@ -18,4 +18,14 @@ header-three .menu-area {
     background: #032e3f;
     padding: 20px 17px;
     border-radius: 10px;
-}v
+}
+
+.pay-online {
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}

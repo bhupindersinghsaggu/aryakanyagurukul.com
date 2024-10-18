@@ -17,7 +17,7 @@
                                 teaching and quality research activities and for holistic
                                 development.
                             </p>
-                           
+
                         </div>
                         <div class="footer-social mt-10">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -67,7 +67,7 @@
                                 </li>
                                 <li>
                                     <a href="img/pdf/D.EL.Ed.I-II.pdf">
-                                    D.EL.Ed.I-II
+                                        D.EL.Ed.I-II
                                     </a>
                                 </li>
                                 <li>
@@ -75,11 +75,11 @@
                                         NCTE B.Ed.
                                     </a>
                                 </li>
-                                 <li>
-                                     <a href="terms-conditions.php"> Terms & Conditions</a>
+                                <li>
+                                    <a href="terms-conditions.php"> Terms & Conditions</a>
                                 </li>
 
-                               
+
 
                             </ul>
                         </div>
@@ -116,6 +116,11 @@
             </div>
         </div>
     </div>
+
+    <div class="pay-online">
+        <a href="https://curtina.in/mkk/forms/frmstdPayOnline.aspx" target="_blank"><img onclick="topFunction()"
+                id="btnGoToTop" src="images/ss.png" alt=""></a>
+    </div>
     <div class="copyright-wrap">
         <div class="container">
             <div class="row align-items-center">
@@ -128,7 +133,8 @@
                 </div>
                 <div class="col-lg-8 text-center"></div>
                 <div class="col-lg-8text-right text-xl-right">
-                    © Copyrights 2023 Arya Kanya Gurukul College of Education All rights reserved. Designed By <a href="http://curtinatech.com/"> Curtina Tech.</a>
+                    © Copyrights 2023 Arya Kanya Gurukul College of Education All rights reserved. Designed By <a
+                        href="http://curtinatech.com/"> Curtina Tech.</a>
                 </div>
             </div>
         </div>
