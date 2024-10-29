@@ -380,7 +380,7 @@ include('_web/header.php');
                     <a href="img/pdf/student-data-2022-24.pdf"> Download Data 2022-24</a> 
                         <br>
                         <br>
-                        <a href="img/pdf/student-data-2021-23.pdf"> Download Data 2021-2023</a>
+                        <a href="img/pdf/student-data-2021-23.pdf"> Download Data 2021-23</a>
                     </h4>
                     <br>
                 </div>
