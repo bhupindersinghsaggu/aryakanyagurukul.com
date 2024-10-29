@@ -375,7 +375,13 @@ include('_web/header.php');
                         <a href="img/pdf/compliasb-re.jpg"> View</a>
                     </h4>
                     <br>
-
+                    <h3>   Complianse Report</h3>
+                    <h4 style="color: #ff7350; padding-top: 20px">
+                        <a href="img/pdf/student-data-2022-23"> Data 2022-23</a>
+                        <br>
+                        <a href="img/pdf/student-data-2021-22"> Data 2021-22</a>
+                    </h4>
+                    <br>
                 </div>
             </div>
             <div class="col-sm-12 col-md-12 col-lg-4">
@@ -386,8 +392,6 @@ include('_web/header.php');
                             <li><a href="#mandatory-disclosure">Mandatory Disclosure</a></li>
                             <li><a href="#complianse-report">Complianse Report</a></li>
                             <li><a href="#NCTE">NCTE Documents</a></li>
-                           
-
                         </ul>
                     </section>
                 </aside>
