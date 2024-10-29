@@ -377,10 +377,10 @@ include('_web/header.php');
                     <br>
                     <h3>   Student University Data  </h3>
                     <h4 style="color: #ff7350; padding-top: 20px">
+                    <a href="img/pdf/student-data-2022-24.pdf"> Download Data 2022-24</a> 
+                        <br>
+                        <br>
                         <a href="img/pdf/student-data-2021-23.pdf"> Download Data 2021-2023</a>
-                        <br>
-                        <br>
-                        <a href="img/pdf/student-data-2021-22"> Data 2021-22</a>
                     </h4>
                     <br>
                 </div>
