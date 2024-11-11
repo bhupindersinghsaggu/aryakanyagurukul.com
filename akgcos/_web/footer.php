@@ -52,7 +52,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
+      <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <h5 class="mb-4">Locate us</h5>
         <div class="footer-cntct">
           <ul class="media-icon list-unstyled">
