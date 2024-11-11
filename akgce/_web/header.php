@@ -109,6 +109,18 @@
                                                     <a href="society-documents.php" class="nav-link">Society
                                                         Documents</a>
                                                 </li>
+                                                <li class="nav-item">
+                                                    <a href="society-documents.php" class="nav-link">Balance Sheet</a>
+                                                    <ul>
+                                                        <li class="nav-item">
+                                                            <a href="img/docs/balancesheet/2022-23.pdf" class="nav-link">2022-23</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a href="img/docs/balancesheet/2021-22.pdf" class="nav-link">2021-22</a>
+                                                        </li>
+                                                    </ul>
+                                                    </ul>
+                                                </li>
                                             </ul>
                                         </li>
                                         <li class="nav-item">
@@ -134,7 +146,7 @@
                                                 <li><a href="b.ed-faculty.php">B.Ed Faculty</a></li>
                                                 <li><a href="d.el.ed-faculty.php">D El.Ed. Faculty</a></li>
                                                 <li><a href="administrative-staff.php">Non-Teachning Staff</a></li>
-                                                <li>  <a href="img/pdf/Committee-name.pdf" class="nav-link">Committees/Academic</a></li>
+                                                <li> <a href="img/pdf/Committee-name.pdf" class="nav-link">Committees/Academic</a></li>
                                             </ul>
                                         </li>
                                         <li class="nav-item">
@@ -151,7 +163,7 @@
                                                 </li>
                                                 <li><a href="science-lab.php">Science Lab</a></li>
                                                 <!-- <li><a href="ict-lab.php">ICT Lab</a></li> -->
-                                               
+
                                                 <li>
                                                     <a href="fine-arts-facility.php">Fine Arts Facility</a>
                                                 </li>
