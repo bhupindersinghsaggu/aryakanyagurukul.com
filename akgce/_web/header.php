@@ -109,7 +109,7 @@
                                                     <a href="society-documents.php" class="nav-link">Society
                                                         Documents</a>
                                                 </li>
-                                                <li class="nav-item">
+                                                <li class="has-sub">
                                                     <a href="society-documents.php" class="nav-link">Balance Sheet</a>
                                                     <ul>
                                                         <li class="nav-item">
@@ -118,7 +118,6 @@
                                                         <li class="nav-item">
                                                             <a href="img/docs/balancesheet/2021-22.pdf" class="nav-link">2021-22</a>
                                                         </li>
-                                                    </ul>
                                                     </ul>
                                                 </li>
                                             </ul>
