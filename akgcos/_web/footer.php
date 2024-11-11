@@ -52,27 +52,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
-        <h5 class="mb-4">Reach us</h5>
-        <div class="footer-cntct">
-          <ul class="media-icon list-unstyled">
-            <li>
-              <i class="flaticon-paper-plane"></i>
-              <p class="mb-0">
-                आर्य कन्या गुरुकुल संस्कृत महाविद्यालय
-              </p>
-            </li>
-            <li>
-              <i class="flaticon-message"></i>
-              <a href="mailto:globus21in@yahoo.co.in">akmmgknl@gmail.com</a>
-            </li>
-            <li>
-              <i class="flaticon-phone-call"></i>
-              <a href="tel:+8222000902">8222000902, 8222000827</a>
-            </li>
-          </ul>
-        </div>
-      </div>
+      
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <h5 class="mb-4">Locate us</h5>
         <ul class="media-icon list-unstyled">
