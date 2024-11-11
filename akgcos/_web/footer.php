@@ -58,8 +58,10 @@
       </div>
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <h5 class="mb-4">Locate us</h5>
-        <p>Village Mor Majra
-          District Karnal-132046, Haryana.</p>
+        <ul class="media-icon list-unstyled">
+          <li>Village Mor Majra</li>
+          District Karnal-132046, Haryana.
+        </ul>
       </div>
     </div>
   </div>
