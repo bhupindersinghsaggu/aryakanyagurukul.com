@@ -365,19 +365,19 @@ include('_web/header.php');
                     </table>
                 </div>
                 <h3> Kurukshetra University Affiliation Letter</h3>
-              
+
                 <div class="university-documents" id="university-documents">
                     <h4 style="color: #ff7350; padding-top: 20px">
                         <a href="img/pdf/affiliation-2020-21-1.jpg"> View</a>
                     </h4>
-                    <h3>   Complianse Report</h3>
+                    <h3> Complianse Report</h3>
                     <h4 style="color: #ff7350; padding-top: 20px">
                         <a href="img/pdf/compliasb-re.jpg"> View</a>
                     </h4>
                     <br>
-                    <h3>   Student University Data  </h3>
+                    <h3> Student University Data </h3>
                     <h4 style="color: #ff7350; padding-top: 20px">
-                    <a href="img/pdf/student-data-2022-24.pdf"> Download Data 2022-24</a> 
+                        <a href="img/pdf/student-data-2022-24.pdf"> Download Data 2022-24</a>
                         <br>
                         <br>
                         <a href="img/pdf/student-data-2021-23.pdf"> Download Data 2021-23</a>

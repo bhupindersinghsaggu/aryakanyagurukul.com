@@ -58,27 +58,8 @@
       </div>
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <h5 class="mb-4">Locate us</h5>
-        <!-- <div class="subscribe-form">
-                <form id="mc-form">
-                  <input
-                    type="email"
-                    value=""
-                    name="EMAIL"
-                    class="email form-control"
-                    id="mc-email"
-                    placeholder="Enter your email address"
-                    required=""
-                  />
-                  <div class="primary-btn mt-3">
-                    <input
-                      class="subscribe-btn"
-                      type="submit"
-                      name="subscribe"
-                      value="Subscribe Now"
-                    />
-                  </div>
-                </form>
-              </div> -->
+        <p>Village Mor Majra
+          District Karnal-132046, Haryana.</p>
       </div>
     </div>
   </div>
