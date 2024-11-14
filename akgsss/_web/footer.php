@@ -45,7 +45,7 @@
                         <h4 class="footer-widget-title">Contact us</h4>
                         <div class="widget-link">
                             <ul class="link">
-                                <li>Arya Kanya Gurukul Sr.Sec.School/Sanskrit Mahavidyalaya
+                                <li>Arya Kanya Mahavidyalaya Gurukul,MorMajra (Karnal) 132046
                                 </li>
 
                                 <li><i class="flaticon-phone-call"></i> +91-8222000546, 8222000670 </li>

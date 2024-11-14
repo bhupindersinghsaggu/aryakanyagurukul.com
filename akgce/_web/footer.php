@@ -106,8 +106,7 @@
                                 </li>
                                 <li>
                                     <i class="icon fal fa-map-marker-check"></i>
-                                    <span>Arya Kanya Gurkul College Of Educataion,  Village Mor Majra
-                                    District Karnal-132046, Haryana.</span>
+                                    <span>Arya Kanya Mahavidyalaya Gurukul, MorMajra (Karnal) 132046</span>
                                 </li>
                             </ul>
                         </div>

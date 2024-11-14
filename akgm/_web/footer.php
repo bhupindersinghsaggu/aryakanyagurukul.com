@@ -54,7 +54,7 @@
                         <h3>Contact us</h3>
                         <div class="list">
                             <ul>
-                                <li><a href="#">Arya Kanya Gurukul Sanskrit Mahavidyalaya Mor Majra Karnal</a>
+                                <li><a href="#">Arya Kanya Mahavidyalaya Gurukul,MorMajra (Karnal) 132046</a>
                                 </li>
                                 <li><a href="#">akmmgknl@gmail.com</a></li>
                                 <li><a href="#">8222000902, 8222000827</a></li>
