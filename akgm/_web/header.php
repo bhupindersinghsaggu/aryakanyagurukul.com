@@ -207,11 +207,11 @@
                                             Portal</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="prospectus.php" class="nav-link">Prospectus (2023-24) </a>
+                                        <a href="prospectus.php" class="nav-link">Prospectus (2024-25) </a>
 
                                     </li>
                                     <li class="nav-item">
-                                        <a href="fees-details-2023-24.php" class="nav-link">Fees Details (2023-24) </a>
+                                        <a href="fees-details-2024-25.php" class="nav-link">Fees Details (2024-25) </a>
                                     </li>
                                 </ul>
                             </li>
