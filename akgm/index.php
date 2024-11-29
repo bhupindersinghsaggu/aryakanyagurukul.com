@@ -477,7 +477,7 @@ include('_web/header.php');
                         <div class="academic-top-content">
                             <i class="flaticon-graduation"></i>
                             <a href="#">
-                                <h3>Prospectus (2023-24) </h3>
+                                <h3>Prospectus (2025-26) </h3>
                             </a>
                         </div>
                         <p>We are delighted to present our prospectus, which serves as a comprehensive guide to our
@@ -490,7 +490,7 @@ include('_web/header.php');
                     <div class="single-academics-card">
                         <div class="academic-top-content">
                             <i class="flaticon-writing-tool"></i>
-                            <a href="fees-details-2023-24.html">
+                            <a href="fees-details-2024-25.php">
                                 <h3>Fee Structure</h3>
                             </a>
                         </div>
