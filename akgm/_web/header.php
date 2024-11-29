@@ -215,7 +215,7 @@
 
                                     </li>
                                     <li class="nav-item">
-                                        <a href="fees-details-2024-25.php" class="nav-link">Fees Details (2024-25) </a>
+                                        <a href="assets/fee.pdf" class="nav-link">Fees Details (2024-25) </a>
                                     </li>
                                 </ul>
                             </li>
