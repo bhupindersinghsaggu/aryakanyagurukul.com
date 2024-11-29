@@ -145,7 +145,7 @@
                                             </ul> -->
                                         </li>
                                         <li class="nav-item dropdown">
-                                            <a class="nav-link" href=#" data-bs-toggle="dropdown">Admission</a>
+                                            <a class="nav-link dropdown-toggle" href=#" data-bs-toggle="dropdown">Admission</a>
                                             <ul class="dropdown-menu">
                                             <li><a href="images/courses-eligibility.pdf" class="nav-link">Courses Eligibility</a></li>
                                             <li><a href="images/fee-flow.pdf" class="nav-link">Fee Flow</a></li>
