@@ -145,6 +145,14 @@
                                             </ul> -->
                                         </li>
                                         <li class="nav-item dropdown">
+                                            <a class="nav-link" href=#">Admission</a>
+                                            <ul class="dropdown-menu">
+                                            <li><a href="assets/images/fee-flow.pdf" class="nav-link">Fee Flow</a></li>
+                                            <li><a href="assets/images/fee.pdf" class="nav-link">Fees Details (2024-25) </a>
+                                            </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
                                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Infrastructure</a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="class-room.php">Class Room</a></li>
