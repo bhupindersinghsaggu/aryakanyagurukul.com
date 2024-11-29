@@ -211,12 +211,13 @@
                                         <a href="assets/images/fee-flow.pdf" class="nav-link">Fee Flow</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="prospectus.php" class="nav-link">Prospectus (2024-25) </a>
-
-                                    </li>
-                                    <li class="nav-item">
                                         <a href="assets/images/fee.pdf" class="nav-link">Fees Details (2024-25) </a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">Prospectus (2024-25) </a>
+
+                                    </li>
+                                   
                                 </ul>
                             </li>
                             
