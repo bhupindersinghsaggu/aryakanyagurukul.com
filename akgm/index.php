@@ -477,7 +477,7 @@ include('_web/header.php');
                         <div class="academic-top-content">
                             <i class="flaticon-graduation"></i>
                             <a href="#">
-                                <h3>Prospectus (2025-26) </h3>
+                                <h3>Prospectus (2024-25) </h3>
                             </a>
                         </div>
                         <p>We are delighted to present our prospectus, which serves as a comprehensive guide to our
