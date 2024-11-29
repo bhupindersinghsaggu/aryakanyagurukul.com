@@ -202,6 +202,10 @@
                                     Admission
                                 </a>
                                 <ul class="dropdown-menu">
+                                <li class="nav-item">
+                                        <a href="https://admissions.highereduhry.ac.in/" class="nav-link">Admission
+                                            Portal</a>
+                                    </li>
                                     <li class="nav-item">
                                         <a href="https://admissions.highereduhry.ac.in/" class="nav-link">Admission
                                             Portal</a>
