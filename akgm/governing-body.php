@@ -102,8 +102,8 @@ include('_web/header.php');
 
             </div>
             <div class="team-info">
-              <h4>Sh. Surender Singh</h4>
-              <p>Joint Secretory </p>
+              <h4>Sh. Sh. Ishwar Singh</h4>
+              <p>Executive Member </p>
 
             </div>
           </div>
