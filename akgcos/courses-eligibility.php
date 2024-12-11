@@ -29,11 +29,11 @@ include('_web/header.php')
             <div class="col-lg-12 col-12 ps-lg-10 order-lg-1">
             <div class="table-heading" style="text-align:left";>
                
-                <h2>Courses Offered</h2>
-                <ul class="media-icon list-unstyled"><li>  <i class="flaticon-paper-plane"></i><h3>Visharad</h3></li>
-                <li> <i class="flaticon-paper-plane"></i> <h3>            Shastri</h3></li></ul>
+                <h2>Courses Offered</h2><br<
+                <ul class="media-icon list-unstyled"><li class="d-flex align-items-center">  <i class="flaticon-paper-plane"></i><h3>Visharad</h3></li>
+                <li class="d-flex align-items-center"> <i class="flaticon-paper-plane"></i> <h3>            Shastri</h3></li></ul>
                 <h5>Eligibility of Courses:</h5>
-                
+                <br>
                 <div><strong><h3>VISHARAD</h3></strong></div>
                 <p>विशारद परीक्षा में प्रवेश लेने के लिए दसवीं कक्षा उत्तीर्ण करना अनिवार्य हैI दसवीं कक्षा में अगर संस्कृत विषय नहीं है तो भी आप विशारद में प्रवेश ले सकते हैंI विशारद परीक्षा का संपूर्ण पाठ्यक्रम दो वर्ष का होगा, इसमें संस्कृत विषय अनिवार्य होगा। संस्कृतेतर विषयों का पाठ्यक्रम हरियाणा स्कूल शिक्षा बोर्ड क्रमशः (हिन्दी/अंग्रेजी) एकादश द्वादश कक्षाओं के समकक्ष होगा। विशारद कुरुक्षेत्र विश्वविद्यालय ,कुरुक्षेत्र से मान्यता प्राप्त है।</p>
                 <div><strong><h3>SHASTRI</h3></strong></div>
