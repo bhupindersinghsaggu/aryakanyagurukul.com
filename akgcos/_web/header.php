@@ -107,7 +107,7 @@
                         <div class="col">
                             <nav class="navbar navbar-expand-lg">
                                 <a class="navbar-brand logo" href="index.php">
-                                    <img class="img-fluid" src="images/logo.jpg" alt="" />
+                                    <img class="img-fluid" src="images/logo.png" alt="" />
                                 </a>
                                 <button class="navbar-toggler ht-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                     <svg width="100" height="100" viewBox="0 0 100 100">
