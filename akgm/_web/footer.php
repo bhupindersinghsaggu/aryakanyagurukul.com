@@ -51,6 +51,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-6">
                     <div class="footer-widjet">
+                        <br>
                         <h3>Contact us</h3>
                         <div class="list">
                             <ul>
