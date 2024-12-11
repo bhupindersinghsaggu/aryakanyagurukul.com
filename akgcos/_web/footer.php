@@ -54,9 +54,14 @@
       </div>
       
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-        <h5 class="mb-4">Locate us</h5>
+        <h5 class="mb-4">Contact us</h5>
         <ul class="media-icon list-unstyled txt-white">
         <li class="mb-3 "> Arya Kanya Gurukul Sanskrit Mahavidyalaya, Mor Majra (Karnal) 132046
+        </ul>
+     
+        <h5 class="mb-4">Locate us</h5>
+        <ul class="media-icon list-unstyled txt-white">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6947.24297745152!2d76.78581259343524!3d29.46906125087305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390de04855555555%3A0xdf5c3422e4ab695e!2sArya%20Kanya%20Gurukul%20College%20Of%20Education!5e0!3m2!1sen!2sin!4v1733897081255!5m2!1sen!2sin" width="300" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </ul>
       </div>
     </div>
