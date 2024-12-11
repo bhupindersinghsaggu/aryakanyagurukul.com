@@ -3,10 +3,6 @@
 include('_web/header.php')
 ?>
 
-<?php
-
-include('_web/header.php')
-?>
 
 <section class="page-title">
     <div class="container">
