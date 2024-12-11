@@ -207,9 +207,9 @@
                                             Portal</a>
                                     </li>
                                     
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a href="assets/images/fee-flow.pdf" class="nav-link">Fee Flow</a>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <a href="assets/images/fee.pdf" class="nav-link">Fees Details (2024-25) </a>
                                     </li>
