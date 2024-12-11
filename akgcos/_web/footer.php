@@ -56,7 +56,7 @@
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <h5 class="mb-4">Locate us</h5>
         <ul class="media-icon list-unstyled txt-white">
-        <li class="mb-3 ">Arya Kanya Mahavidyalaya Gurukul,MorMajra (Karnal) 132046
+        <li class="mb-3 "> Arya Kanya Gurukul Sanskrit Mahavidyalaya, Mor Majra (Karnal) 132046
         </ul>
       </div>
     </div>
