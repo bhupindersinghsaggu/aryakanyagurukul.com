@@ -148,7 +148,7 @@
                                             <a class="nav-link dropdown-toggle" href=#" data-bs-toggle="dropdown">Admission</a>
                                             <ul class="dropdown-menu">
                                             <li><a href="images/courses-eligibility.pdf" class="nav-link">Courses Eligibility</a></li>
-                                            <li><a href="images/fee-flow.pdf" class="nav-link">Fee Flow</a></li>
+                                            <!-- <li><a href="images/fee-flow.pdf" class="nav-link">Fee Flow</a></li> -->
                                             <li><a href="images/fee.pdf" class="nav-link">Fees Details (2024-25) </a>
                                             </li>
                                             </ul>
