@@ -30,8 +30,8 @@ include('_web/header.php')
             <div class="table-heading" style="text-align:left";>
                 <h3> Arya Kanya Gurukul Sanskrit Mahavidyalaya Mor Majra (Karnal)</h3>
                 <h4>Courses Offered</h4>
-                <ul><li>Visharad</li>
-                <li>Shastri</li></ul>
+                <ul class="media-icon list-unstyled"><li>  <i class="flaticon-paper-plane"></i>Visharad</li>
+                <li> <i class="flaticon-paper-plane"></i>             Shastri</li></ul>
                 <h5>Eligibility of Courses:</h5>
                 
                 <div><strong><h3>VISHARAD</h3></strong></div>
