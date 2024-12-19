@@ -56,7 +56,7 @@ include('_web/header.php');
                                         aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
                                         <div class="accordion-body">
                                             <button type="submit" class="default-btn btn"><a
-                                                    href="assets/images/pdf/Pancard21-9-2016.pdf" style="
+                                                    href="assets/images/pdf/PAN_Society.pdf" style="
                                                 color: #fff;
                                             "> Download<i class="flaticon-paper-plane"></i></a></button>
                                         </div>
@@ -85,14 +85,14 @@ include('_web/header.php');
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                             aria-expanded="true" aria-controls="collapseFour">
-                                            Balance Sheet as on 31-03-2020 
+                                            Balance Sheet as on 31-03-2024 
                                         </button>
                                     </h2>
                                     <div id="collapseFour" class="accordion-collapse collapse"
                                         aria-labelledby="headingFour" data-bs-parent="#accordionExample" style="">
                                         <div class="accordion-body">
                                             <button type="submit" class="default-btn btn"><a
-                                                    href="assets/images/pdf/Balance-Sheet-31.03.2020.pdf" style="
+                                                    href="assets/images/pdf/balance_sheet2024.pdf" style="
                                                 color: #fff;
                                             "> Download<i class="flaticon-paper-plane"></i></a></button>
                                         </div>
