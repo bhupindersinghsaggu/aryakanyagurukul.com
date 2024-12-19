@@ -106,7 +106,7 @@
                                 </li>
                                 <li>
                                     <i class="icon fal fa-map-marker-check"></i>
-                                    <span>Arya Kanya Mahavidyalaya Gurukul, MorMajra (Karnal) 132046</span>
+                                    <span>Arya Kanya Gurukul College of Education, MorMajra (Karnal) 132046</span>
                                 </li>
                             </ul>
                         </div>
