@@ -74,7 +74,7 @@ include('_web/header.php');
                                         aria-labelledby="headingThree" data-bs-parent="#accordionExample" style="">
                                         <div class="accordion-body">
                                             <button type="submit" class="default-btn btn"><a
-                                                    href="assets/images/pdf/Governing-Body.pdf" style="
+                                                    href="assets/images/pdf/" style="
                                                 color: #fff;
                                             "> Download<i class="flaticon-paper-plane"></i></a></button>
                                         </div>
