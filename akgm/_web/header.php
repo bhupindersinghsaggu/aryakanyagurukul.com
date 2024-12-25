@@ -141,7 +141,8 @@
                                                 </a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="physical-science.php" class="nav-link">Bachelor of Physical Science 
+                                                <a href="physical-science.php" class="nav-link">Bachelor of Physical
+                                                    Science
                                                 </a>
                                             </li>
                                             <li class="nav-item">
@@ -181,7 +182,7 @@
                                             Remedial Classes
                                         </a>
                                     </li>
-                                    
+
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -202,32 +203,32 @@
                                     Admission
                                 </a>
                                 <ul class="dropdown-menu">
-                                <li class="nav-item">
+                                    <li class="nav-item">
                                         <a href="https://admissions.highereduhry.ac.in/" class="nav-link">Admission
                                             Portal</a>
                                     </li>
-                                    
-                                    <!-- <li class="nav-item">
-                                        <a href="assets/images/fee-flow.pdf" class="nav-link">Fee Flow</a>
-                                    </li> -->
+
                                     <li class="nav-item">
-                                        <a href="fee.pdf" class="nav-link">Fees Details (2024-25) </a>
+                                        <a href="assets/images/fee-flow.pdf" class="nav-link">Fee Flow</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="fees.pdf" class="nav-link">Fees Details (2024-25) </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">Prospectus (2024-25) </a>
 
                                     </li>
-                                   
+
                                 </ul>
                             </li>
-                            
+
                             <li class="nav-item">
                                 <a href="assets/images/pdf/idp.pdf" class="nav-link">IDP </a>
                             </li>
                             <li class="nav-item">
                                 <a href="assets/images/pdf/nep.pdf" class="nav-link">NEP </a>
                             </li>
-                                                        <li class="nav-item">
+                            <li class="nav-item">
                                 <a href="#" class="nav-link">Facilities</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
@@ -268,7 +269,7 @@
                                 <a href="sports-facilities.php" class="nav-link">Sports </a>
                             </li>
                             </li>
-                            
+
                         </ul>
                     </div>
                 </nav>
