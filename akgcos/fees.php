@@ -27,7 +27,6 @@ include('_web/header.php')
                     <h2>Fee structure (2024-2025)</h2><br>
                     <h5> Arya kanya Gurukul Sanskrit Mahavidyalaya Mor Majra (Karnal)</h5>
                     <br>
-                    <p><strong></strong></p>
                     <table class="table table-striped">
                         <tbody>
                             <tr>
@@ -135,7 +134,7 @@ include('_web/header.php')
                         </tbody>
                     </table>
                     <p><strong>Installment Wise Fees Structure:</strong></p>
-                    <table width="652">
+                    <table class="table table-striped">
                         <tbody>
                             <tr>
                                 <td width="92">
@@ -296,9 +295,12 @@ include('_web/header.php')
                             </tr>
                         </tbody>
                     </table>
-                    <p><strong>Payment Guidelines:</strong>1. A Punjab National Bank branch is available at the Gurukul
-                        campus to help with account opening and fee payments.2. All installments must be paid during the
-                        working days of the college.</p>
+                    <p><strong>Payment Guidelines:</strong>
+                        <br>1. A Punjab National Bank branch is available at the Gurukul
+                        campus to help with account opening and fee payments.
+                        <br>2. All installments must be paid during the
+                        working days of the college.
+                    </p>
                 </div>
             </div>
         </div>
