@@ -33,6 +33,52 @@
 
   <link rel="stylesheet" href="./css/style.css">
 
+  <style>
+    /* Overlay styling */
+    .popup-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+
+    /* Popup content styling */
+    .popup-content {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      width: 300px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .popup-overlay.active {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    /* Close button styling */
+    .close-btn {
+      background: #ff4d4d;
+      color: #fff;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .close-btn:hover {
+      background: #ff1a1a;
+    }
+  </style>
+
   <!-- <link rel="stylesheet" href="./css/demo.css"> -->
   <link rel="icon" type="image/png" href="assets/images/favicon.png" />
   <title>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana -</title>
@@ -183,7 +229,13 @@
             </div> -->
       </div>
     </div>
-
+    <div id="popup" class="popup-overlay">
+    <div class="popup-content">
+      <h2>Welcome!</h2>
+      <p>This is an automatic popup message.</p>
+      <button class="close-btn" onclick="closePopup()">Close</button>
+    </div>
+  </div>
     <div class="footer-area pt-10 pb-10">
       <div class="container">
         <div class="copyright-area">
@@ -248,6 +300,20 @@
         <script src='https://code.jquery.com/jquery-1.8.2.js'></script>
         <!-- Script JS -->
         <script src="./js/script.js"></script>
+
+        <script>
+    // Function to show the popup on page load
+    window.onload = function () {
+      const popup = document.getElementById('popup');
+      popup.classList.add('active');
+    };
+
+    // Function to close the popup
+    function closePopup() {
+      const popup = document.getElementById('popup');
+      popup.classList.remove('active');
+    }
+  </script>
         <!--$%analytics%$-->
 </body>
 
