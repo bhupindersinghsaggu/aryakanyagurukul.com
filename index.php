@@ -231,7 +231,7 @@
     </div>
     <div id="popup" class="popup-overlay">
     <div class="popup-content">
-      <h2>List of Members </h2>
+      <!-- <h2>List of Members </h2> -->
       <img src="assets/images/pop.jpg">
       <b><p>Check List-</b> <a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
       <button class="close-btn" onclick="closePopup()">Close</button>
