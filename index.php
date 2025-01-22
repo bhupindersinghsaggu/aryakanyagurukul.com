@@ -234,7 +234,7 @@
       <!-- <h2>List of Members </h2> -->
       <img src="assets/images/pop1.jpg">
       <b><p>Check List - dt 04.01.2024 - List of Members Entitled to Vote -</b> Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
-      <b><p>Check List - dt 04.01.2024 - Voter List-</b>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list1.pdf" target="_blank"> Click Here </a></p>
+      <b><p>Check List - dt 24.01.2024 - Voter List-</b>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list1.pdf" target="_blank"> Click Here </a></p>
       <button class="close-btn" onclick="closePopup()">Close</button>
     </div>
   </div>
