@@ -56,7 +56,7 @@
       padding: 20px;
       border-radius: 10px;
       text-align: center;
-      width: 300px;
+      width: 100;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
