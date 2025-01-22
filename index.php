@@ -232,7 +232,12 @@
     <div id="popup" class="popup-overlay">
     <div class="popup-content">
       <!-- <h2>List of Members </h2> -->
-      <img src="assets/images/pop1.jpg">
+       <p>चुनाव अधिसूचना - महासभा आर्य कन्या गुरुकुल मोरमाजरा, करनाल की कार्यकारिणी के चुनाव कार्यक्रम की अधिसूचना को दिनाकं 22.01.2025 के The Tribune व अमरउजाला अखबार में प्रकाशित करवा गया हैं साथ ही गुरुकुल मोरमाजरा करनाल की वेबसाइट www.aryakanyagurukul.com व सूचना पट्ट पर भी चस्पा दिया गया है। 
+
+
+जसबीर सिंह मान एडवोकेट, प्रधान
+महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
+      <!-- <img src="assets/images/pop1.jpg"> -->
       <b><p>Check List - dt 04.01.2024 - List of Members Entitled to Vote -</b> Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
       <b><p>Check List - dt 24.01.2024 - Voter List-</b>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list1.pdf" target="_blank"> Click Here </a></p>
       <button class="close-btn" onclick="closePopup()">Close</button>
