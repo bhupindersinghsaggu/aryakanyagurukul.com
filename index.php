@@ -56,7 +56,7 @@
       padding: 20px;
       border-radius: 10px;
       text-align: center;
-      width: 100;
+      width: 550px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
 
@@ -233,7 +233,8 @@
     <div class="popup-content">
       <!-- <h2>List of Members </h2> -->
       <img src="assets/images/pop1.jpg">
-      <b><p>Check List-</b> <a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
+      <b><p>Check List - dt 04.01.2024 - List of Members Entitled to Vote -</b> Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
+      <b><p>Check List - dt 04.01.2024 - Voter List-</b>Mahasabha Arya Kanya Gurukul Mor Majra Karnal Haryana <br><a href="assets/images/list1.pdf" target="_blank"> Click Here </a></p>
       <button class="close-btn" onclick="closePopup()">Close</button>
     </div>
   </div>
