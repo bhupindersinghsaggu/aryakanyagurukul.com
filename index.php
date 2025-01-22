@@ -232,15 +232,16 @@
     <div id="popup" class="popup-overlay">
     <div class="popup-content">
       <!-- <h2>List of Members </h2> -->
-       <p>चुनाव अधिसूचना - महासभा आर्य कन्या गुरुकुल मोरमाजरा, करनाल की कार्यकारिणी के चुनाव कार्यक्रम की अधिसूचना को दिनाकं 22.01.2025 के The Tribune व अमरउजाला अखबार में प्रकाशित करवा गया हैं साथ ही गुरुकुल मोरमाजरा करनाल की वेबसाइट www.aryakanyagurukul.com व सूचना पट्ट पर भी चस्पा दिया गया है। 
+       <p style="text-align: center; font-size:20px;"><strong> चुनाव अधिसूचना</strong> <br>
+       <p style="text-align: left;">महासभा आर्य कन्या गुरुकुल मोरमाजरा, करनाल की कार्यकारिणी के चुनाव कार्यक्रम की अधिसूचना को दिनाकं 22.01.2025 के The Tribune व अमरउजाला अखबार में प्रकाशित करवा गया हैं साथ ही गुरुकुल मोरमाजरा करनाल की वेबसाइट www.aryakanyagurukul.com व सूचना पट्ट पर भी चस्पा दिया गया है। 
+<p>
 
-
-जसबीर सिंह मान एडवोकेट, प्रधान
-महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
+       <p style="text-align: left;"><b>जसबीर सिंह मान एडवोकेट, प्रधान</b><br>
+       <p style="text-align: left;">महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
       <!-- <img src="assets/images/pop1.jpg"> -->
-      <b><p>1. Check List- dt 04.01.2025 - List of Members Entitled to Vote -</b>  <br><a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
-      <b><p>2. Check List - dt 22.01.2025 - Election schedule-</b><br><a href="assets/images/pop1.jpg" target="_blank"> Click Here </a></p>
-      <b><p>3. Check List - dt 24.01.2025 - Voter List-</b><br> Click Here </p>
+      <b><a href="assets/images/list.pdf" target="_blank"><p style="text-align: left;">1. Check List- dt 04.01.2025 - List of Members Entitled to Vote </b>  <br>  </a></p>
+      <b><a href="assets/images/pop1.jpg" target="_blank"><p style="text-align: left;">2. Check List - dt 22.01.2025 - Election schedule</b><br>  </a></p>
+      <b><p style="text-align: left;">3. Check List - dt 24.01.2025 - Voter List</b><br>  </p>
       <button class="close-btn" onclick="closePopup()">Close</button>
     </div>
   </div>
