@@ -239,7 +239,7 @@
 महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
       <!-- <img src="assets/images/pop1.jpg"> -->
       <b><p>1. Check List- dt 04.01.2025 - List of Members Entitled to Vote -</b>  <br><a href="assets/images/list.pdf" target="_blank"> Click Here </a></p>
-      <b><p>2. Check List - dt 22.01.2025 - Election schedule-</b><br><a href="assets/images/list1.pdf" target="_blank"> Click Here </a></p>
+      <b><p>2. Check List - dt 22.01.2025 - Election schedule-</b><br><a href="assets/images/pop1.jpg" target="_blank"> Click Here </a></p>
       <b><p>3. Check List - dt 24.01.2025 - Voter List-</b><br> Click Here </p>
       <button class="close-btn" onclick="closePopup()">Close</button>
     </div>
