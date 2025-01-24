@@ -241,7 +241,7 @@
       <!-- <img src="assets/images/pop1.jpg"> -->
       <b><a href="assets/images/list.pdf" target="_blank"><p style="text-align: left;">1. Check List- dt 04.01.2025 - List of Members Entitled to Vote </b>  <br>  </a></p>
       <b><a href="assets/images/pop1.jpg" target="_blank"><p style="text-align: left;">2. Check List - dt 22.01.2025 - Election schedule</b><br>  </a></p>
-      <b><p style="text-align: left;">3. Check List - dt 24.01.2025 - Voter List</b><br>  </p>
+      <b><a href="assets/images/list2.pdf" target="_blank"><p style="text-align: left;">3. Check List - dt 24.01.2025 - Voter List</a></b><br>  </p>
       <button class="close-btn" onclick="closePopup()">Close</button>
     </div>
   </div>
