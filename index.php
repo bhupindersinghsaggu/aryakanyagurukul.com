@@ -74,6 +74,7 @@
       border-radius: 5px;
       cursor: pointer;
     }
+
     .close-btn:hover {
       background: #ff1a1a;
     }
@@ -94,7 +95,9 @@
               <a href='' class='close'><i class="fa-solid fa-circle-xmark"></i></a>
             </div>
             <div class="col-sm-12">
-          <div class="heading"><h2>वार्षिक समारोह</h2></div>
+              <div class="heading">
+                <h2>वार्षिक समारोह</h2>
+              </div>
 
               <div class="banner">
                 <img src="assets/images/flex-board.png" class="banner-image">
@@ -109,7 +112,7 @@
       </div>
     </div>
   </div>
-  
+
 
   <div class="top-header-area">
     <div class="container-fluid">
@@ -230,21 +233,25 @@
       </div>
     </div>
     <div id="popup" class="popup-overlay">
-    <div class="popup-content">
-      <!-- <h2>List of Members </h2> -->
-       <p style="text-align: center; font-size:20px;"><strong> चुनाव अधिसूचना</strong> <br>
-       <p style="text-align: justify;">महासभा आर्य कन्या गुरुकुल मोरमाजरा, करनाल की कार्यकारिणी के चुनाव कार्यक्रम की अधिसूचना को दिनाकं <b>22.01.2025</b> के The Tribune व अमरउजाला अखबार में प्रकाशित करवा गया हैं साथ ही गुरुकुल मोरमाजरा करनाल की वेबसाइट <b>www.aryakanyagurukul.com</b> व सूचना पट्ट पर भी चस्पा दिया गया है। 
-<p>
+      <div class="popup-content">
+        <!-- <h2>List of Members </h2> -->
+        <p style="text-align: center; font-size:20px;"><strong> चुनाव अधिसूचना</strong> <br>
+        <p style="text-align: justify;">महासभा आर्य कन्या गुरुकुल मोरमाजरा, करनाल की कार्यकारिणी के चुनाव कार्यक्रम की अधिसूचना को दिनाकं <b>22.01.2025</b> के The Tribune व अमरउजाला अखबार में प्रकाशित करवा गया हैं साथ ही गुरुकुल मोरमाजरा करनाल की वेबसाइट <b>www.aryakanyagurukul.com</b> व सूचना पट्ट पर भी चस्पा दिया गया है।
+        <p>
 
-       <p style="text-align: left;"><b>जसबीर सिंह मान एडवोकेट, प्रधान</b><br>
-       <p style="text-align: left;">महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
-      <!-- <img src="assets/images/pop1.jpg"> -->
-      <b><a href="assets/images/list.pdf" target="_blank"><p style="text-align: left;">1. Check List- dt 04.01.2025 - List of Members Entitled to Vote </b>  <br>  </a></p>
-      <b><a href="assets/images/pop1.jpg" target="_blank"><p style="text-align: left;">2. Check List - dt 22.01.2025 - Election schedule</b><br>  </a></p>
-      <b><a href="assets/images/list2.pdf" target="_blank"><p style="text-align: left;">3. Check List - dt 24.01.2025 - Voter List</a></b><br>  </p>
-      <button class="close-btn" onclick="closePopup()">Close</button>
+        <p style="text-align: left;"><b>जसबीर सिंह मान एडवोकेट, प्रधान</b><br>
+        <p style="text-align: left;">महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
+        <!-- <img src="assets/images/pop1.jpg"> -->
+        <b><a href="assets/images/list.pdf" target="_blank">
+            <p style="text-align: left;">1. Check List- dt 04.01.2025 - List of Members Entitled to Vote </b> <br> </a></p>
+        <b><a href="assets/images/pop1.jpg" target="_blank">
+            <p style="text-align: left;">2. Check List - dt 22.01.2025 - Election schedule</b><br> </a></p>
+        <b><a href="assets/images/list2.pdf" target="_blank">
+            <p style="text-align: left;">3. Check List - dt 24.01.2025 - Voter List
+          </a></b><br> </p>
+        <button class="close-btn" onclick="closePopup()">Close</button>
+      </div>
     </div>
-  </div>
     <div class="footer-area pt-10 pb-10">
       <div class="container">
         <div class="copyright-area">
@@ -279,6 +286,25 @@
           <i class="ri-arrow-up-s-line"></i>
           <i class="ri-arrow-up-s-line"></i>
         </div>
+        <style>
+          .pay-online {
+            position: fixed;
+            bottom: 15px;
+            right: 20px;
+            z-index: 99;
+            border: none;
+            outline: none;
+            cursor: pointer;
+          }
+        </style>
+        <div class="footer-icon">
+          <div class="pay-online">
+            <a href="https://www.curtina.in/akclg/forms/frmStdPayOnline.aspx" target="_blank"><img onclick="topFunction()"
+                id="btnGoToTop" src="/assets/images/ss.png" alt=""></a>
+          </div>
+        </div>
+
+
         <script data-cfasync="false"
           src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script src="assets/js/jquery.min.js"></script>
@@ -311,18 +337,18 @@
         <script src="./js/script.js"></script>
 
         <script>
-    // Function to show the popup on page load
-    window.onload = function () {
-      const popup = document.getElementById('popup');
-      popup.classList.add('active');
-    };
+          // Function to show the popup on page load
+          window.onload = function() {
+            const popup = document.getElementById('popup');
+            popup.classList.add('active');
+          };
 
-    // Function to close the popup
-    function closePopup() {
-      const popup = document.getElementById('popup');
-      popup.classList.remove('active');
-    }
-  </script>
+          // Function to close the popup
+          function closePopup() {
+            const popup = document.getElementById('popup');
+            popup.classList.remove('active');
+          }
+        </script>
         <!--$%analytics%$-->
 </body>
 
