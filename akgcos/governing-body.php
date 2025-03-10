@@ -38,7 +38,7 @@ include('_web/header.php')
                     <div class="single-team mb-40">
                         <div class="team-thumb">
                             <div class="brd">
-                                <img src="/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt="img">
+                                <img src="images/mangament/2025/SUKHBIR_SINGH_PRESIDENT.png" alt="img">
                             </div>
                         </div>
                         <div class="team-info">
