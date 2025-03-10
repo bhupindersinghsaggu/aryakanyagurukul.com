@@ -516,21 +516,17 @@ include('_web/header.php');
 
                                 <h3>Message From President</h3>
 
-                                <p style="padding-top: 20px;">विद्या प्रशस्यते लोकैः विद्या सर्वत्र गौरवा।
-                                    विद्यया लभते सर्वं विद्वान सर्वत्र पूज्यते।।</p>
+                                <p style="padding-top: 20px;">Dear students, Parents and Esteemed Faculty,</p>
 
 
-                                <p>Advocate Jasbir Singh Maan, our inspiration a visionary beyond
-                                    border. Every girl is like a lighthouse, so considering that overall
-                                    development of each and every girl is our motto. Since 2008, Arya
-                                    Kanya Mahavidyalaya Gurukul Mor-Majra, Karnal has been serving
-                                    the society by providing high quality of education at the affordable
-                                    cost.
+                                <p>It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence. At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow.
+
+                                    As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.
                                 </p>
                                 <a href="president-desk.html" class="read-more-btn">Read more <i
                                         class="flaticon-next"></i></a>
                                 <br><br>
-                                <h3>Advocate Jasbir Singh Maan</h3>
+                                <h3>Sukhbir Singh</h3>
                                 <h6>Arya Kanya Mahasabha Gurukul</h6>
                                 <strong>Mor-Majra, Karnal</strong>
                             </div>
