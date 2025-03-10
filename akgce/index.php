@@ -135,7 +135,8 @@ include('_web/header.php');
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="s-about-img p-relative wow fadeInLeft animated" data-animation="fadeInLeft" data-delay=".4s">
+                    <div class="s-about-img p-relative wow fadeInLeft animated" data-animation="fadeInLeft"
+                        data-delay=".4s">
                         <img src="img/features/about_img_02.png" alt="img" />
                         <div class="about-text second-about">
                             <span>50 <sub>+</sub></span>
@@ -145,7 +146,8 @@ include('_web/header.php');
                 </div>
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="about-content s-about-content pl-15 wow fadeInRight animated" data-animation="fadeInRight" data-delay=".4s">
+                    <div class="about-content s-about-content pl-15 wow fadeInRight animated"
+                        data-animation="fadeInRight" data-delay=".4s">
                         <div class="about-title second-title pb-25">
                             <h5>
                                 <i class="fal fa-graduation-cap"></i> Welcome to Arya Kanya
@@ -198,7 +200,9 @@ include('_web/header.php');
                                     </div> -->
 
                                     <h3 style="color: #f6520a;padding-top:90px;">Announcements</h3>
-                                    <iframe src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGCE" height="400" width="600"></iframe>
+                                    <iframe
+                                        src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGCE"
+                                        height="400" width="600"></iframe>
                                     <!--<h3>Latest News</h3>-->
                                     <!--<marquee><a href="img/ad.jpg">-->
                                     <!--        <p class="txt-clr"> Advertisement -1 2024  <b>(Dated: Feb-2)</b> || Advertisement -1 2024  <b>(Dated: Feb-2)</b> || Advertisement -1 2024  <b>(Dated: Feb-2)</b> || </p>-->
@@ -221,7 +225,8 @@ include('_web/header.php');
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 p-relative">
-                    <div class="section-title center-align mb-50 wow fadeInDown animated" data-animation="fadeInDown" data-delay=".4s">
+                    <div class="section-title center-align mb-50 wow fadeInDown animated" data-animation="fadeInDown"
+                        data-delay=".4s">
                         <h5><i class="fal fa-graduation-cap"></i> Explorer More</h5>
                         <h2>Campus Facilities</h2>
                     </div>
@@ -280,13 +285,15 @@ include('_web/header.php');
                 <div class="col-lg-4 col-md-6">
                     <div class="courses-item mb-30 hover-zoomin">
                         <div class="thumb fix">
-                            <a href="sportsfacility.php"><img src="img/bg/couress-img-5.jpg" alt="contact-bg-an-01" /></a>
+                            <a href="sportsfacility.php"><img src="img/bg/couress-img-5.jpg"
+                                    alt="contact-bg-an-01" /></a>
                         </div>
                         <div class="courses-content">
                             <div class="cat"><i class="fal fa-graduation-cap"></i></div>
                             <h3><a href="sportsfacility.php"> Indoor-Outdoor Games</a></h3>
 
-                            <a href="sportsfacility.php" class="readmore">More <i class="fal fa-long-arrow-right"></i></a>
+                            <a href="sportsfacility.php" class="readmore">More <i
+                                    class="fal fa-long-arrow-right"></i></a>
                         </div>
                         <div class="icon">
                             <img src="img/icon/cou-icon.png" alt="img" />
@@ -302,7 +309,8 @@ include('_web/header.php');
                             <div class="cat"><i class="fal fa-graduation-cap"></i></div>
                             <h3><a href="sportsfacility.php"> Ground</a></h3>
 
-                            <a href="sportsfacility.php" class="readmore">More <i class="fal fa-long-arrow-right"></i></a>
+                            <a href="sportsfacility.php" class="readmore">More <i
+                                    class="fal fa-long-arrow-right"></i></a>
                         </div>
                         <div class="icon">
                             <img src="img/icon/cou-icon.png" alt="img" />
@@ -317,13 +325,15 @@ include('_web/header.php');
                 <div class="col-lg-4 col-md-6">
                     <div class="courses-item mb-30 hover-zoomin">
                         <div class="thumb fix">
-                            <a href="fine-arts-facility.php"><img src="img/bg/couress-img-4.jpg" alt="contact-bg-an-01" /></a>
+                            <a href="fine-arts-facility.php"><img src="img/bg/couress-img-4.jpg"
+                                    alt="contact-bg-an-01" /></a>
                         </div>
                         <div class="courses-content">
                             <div class="cat"><i class="fal fa-graduation-cap"></i></div>
                             <h3><a href="fine-arts-facility.php"> Art and craft lab</a></h3>
 
-                            <a href="fine-arts-facility.php" class="readmore">More <i class="fal fa-long-arrow-right"></i></a>
+                            <a href="fine-arts-facility.php" class="readmore">More <i
+                                    class="fal fa-long-arrow-right"></i></a>
                         </div>
                         <div class="icon">
                             <img src="img/icon/cou-icon.png" alt="img" />
@@ -359,7 +369,8 @@ include('_web/header.php');
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-12">
-                    <div class="section-title mb-35 wow fadeInDown animated" data-animation="fadeInDown" data-delay=".4s">
+                    <div class="section-title mb-35 wow fadeInDown animated" data-animation="fadeInDown"
+                        data-delay=".4s">
                         <h3>Why Arya Kanya Gurukul College of Education?</h3>
 
                     </div>
@@ -438,7 +449,8 @@ include('_web/header.php');
         <div class="container">
             <div class="row justify">
                 <div class="col-lg-7">
-                    <div class="section-title wow fadeInLeft animated" data-animation="fadeInDown animated" data-delay=".2s">
+                    <div class="section-title wow fadeInLeft animated" data-animation="fadeInDown animated"
+                        data-delay=".2s">
                         <h2>Courses offered</h2>
                         <h6 class="mb-0" style="padding-top: 20px; line-height: 35px">
                             Our college is best in Haryana and we are providing B.Ed and
@@ -452,7 +464,8 @@ include('_web/header.php');
                             <div class="card">
                                 <div class="card-header" id="headingThree">
                                     <h2 class="mb-0">
-                                        <button class="faq-btn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                                        <button class="faq-btn" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseThree">
                                             01. Bachelor of Education Course (B.Ed.)
                                         </button>
                                     </h2>
@@ -517,7 +530,8 @@ include('_web/header.php');
                             <div class="card">
                                 <div class="card-header" id="headingOne">
                                     <h2 class="mb-0">
-                                        <button class="faq-btn collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                                        <button class="faq-btn collapsed" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseOne">
                                             02. Diploma in Elementary Education (D.El.Ed.)
                                         </button>
                                     </h2>
@@ -604,7 +618,8 @@ include('_web/header.php');
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-12">
-                <div class="section-title center-align mb-50 text-center wow fadeInDown animated" data-animation="fadeInDown" data-delay=".4s">
+                <div class="section-title center-align mb-50 text-center wow fadeInDown animated"
+                    data-animation="fadeInDown" data-delay=".4s">
                     <h2>Our Universities</h2>
                 </div>
             </div>
@@ -642,19 +657,26 @@ include('_web/header.php');
             <div class="lower-content">
                 <div class="row">
                     <div class="text-column col-lg-7 col-md-12 col-sm-12">
-                        <div class="s-about-content pl-30 wow fadeInRight" data-animation="fadeInRight" data-delay=".2s" style="visibility: visible; animation-name: fadeInRight">
+                        <div class="s-about-content pl-30 wow fadeInRight" data-animation="fadeInRight" data-delay=".2s"
+                            style="visibility: visible; animation-name: fadeInRight">
                             <h2>Message From President</h2>
                             <p>Dear students, Parents and Esteemed Faculty,</p>
                             <p>
-                                It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence.
+                                It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of
+                                learning, growth and excellence.
 
-                                At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow.
+                                At our Gurukul believe in nurturing young minds nith knowledge, discipline and values
+                                that shape responsible citizens. Our mission is to empower girls with skills, wisdom and
+                                confidence to excel in all walks of life .Remember education is not just about acquiring
+                                knowledge but about developing a mindset of curiosity. Believe in yourself, work hard
+                                and success will follow.
                             </p>
                             <p>
-                            As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.
+                                As we move forward let us work together to make Gurukul a place of inspiration and
+                                excellence. Wishing you all a year filled with learning, growth and success.
                             </p>
                             <div class="prev-link">
-                                <h4><a href="#">Sukhbir Singh</a></h4>
+                                <h4><a href="#">Sukhbir Singh Mann, Advocate</a></h4>
                                 <span>Arya Kanya Mahasabha Gurukul,
                                     Mor Majra,Karnal </span>
                             </div>
@@ -662,7 +684,8 @@ include('_web/header.php');
                                 <div class="row aling-items-center">
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
                                         <div class="slider-btn">
-                                            <a href="president-desk.php" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>
+                                            <a href="president-desk.php" class="btn ss-btn smoth-scroll">Read More <i
+                                                    class="fal fa-long-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -671,7 +694,8 @@ include('_web/header.php');
                     </div>
                     <div class="col-lg-5 col-md-12 col-sm-12">
                         <div class="team-img-box">
-                            <a href="president-desk.php"><img src="img/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt="img" /></a>
+                            <a href="president-desk.php"><img src="img/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png"
+                                    alt="img" /></a>
                         </div>
                     </div>
                 </div>
@@ -690,7 +714,8 @@ include('_web/header.php');
                     </div>
 
                     <div class="text-column col-lg-7 col-md-12 col-sm-12">
-                        <div class="s-about-content pl-30 wow fadeInRight" data-animation="fadeInRight" data-delay=".2s" style="visibility: visible; animation-name: fadeInRight">
+                        <div class="s-about-content pl-30 wow fadeInRight" data-animation="fadeInRight" data-delay=".2s"
+                            style="visibility: visible; animation-name: fadeInRight">
                             <h2>Message From Principal</h2>
 
                             <p>
@@ -763,14 +788,16 @@ include('_web/header.php');
                 </div>
                 <div class="col-xl-3 col-lg-3">
                     <div class="slider-btn">
-                        <a href="contact.php" class="btn ss-btn smoth-scroll">Admission Open <i class="fal fa-long-arrow-right"></i></a>
+                        <a href="contact.php" class="btn ss-btn smoth-scroll">Admission Open <i
+                                class="fal fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <div class="section upstudy-category-section upstudy-category-section-03 section-padding-02" style="padding-bottom: 50px;">
+    <div class="section upstudy-category-section upstudy-category-section-03 section-padding-02"
+        style="padding-bottom: 50px;">
         <div class="container">
             <div class="category-wrap">
                 <div class="row">
@@ -781,7 +808,9 @@ include('_web/header.php');
                 <div class="category-content-wrap">
 
                     <div class="row">
-                        <iframe src="https://curtina.in/_EazySchool/Crescent/PhotoGallery_AKGSS.aspx?AppId=AKGSS&cdn=http://curtina.in/AKGSS&fcode=AKGCE" style="height:380px; width:100% ;border:none;"></iframe>
+                        <iframe
+                            src="https://curtina.in/_EazySchool/Crescent/PhotoGallery_AKGSS.aspx?AppId=AKGSS&cdn=http://curtina.in/AKGSS&fcode=AKGCE"
+                            style="height:380px; width:100% ;border:none;"></iframe>
 
                     </div>
                 </div>
