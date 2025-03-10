@@ -392,7 +392,7 @@ include('_web/header.php')
                     </div>
                     <!-- Latest Blog Item End -->
                 </div>
-  <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <!-- Latest Blog Item Start -->
                     <div class="single-blog text-center">
                         <div class="blog-img">
@@ -701,7 +701,7 @@ include('_web/header.php')
                     <!-- Team Profile Start -->
                     <div class="team-profile text-center">
                         <div class="profile-img">
-                            <img src="assets/images/team/team-7.jpg">
+                            <img src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png">
                         </div>
 
                     </div>
@@ -714,14 +714,16 @@ include('_web/header.php')
                         <!-- Team Profile Description Start -->
                         <div class="team-profile-description">
                             <h3 class="title">Message from President</h3>
-                            <p class="justify"> Education is a collaborative effort of dedicated teachers, motivated students and enthusiastic parents. Better opportunities for safety and education of girls are available in Gurukul. Gurukul does all round development of girl students while providing education as well as protection. What should be the attitude towards parents and teachers, what is the responsibility towards the country and society, all these qualities are developed in the girl students. Due to which the girl students contribute in the building of the society by becoming the best citizens of the nation. The girl students of Gurukul have passed the board examinations with merit and first class, have also established new records in the field of sports through better training. I wish to the Almighty that Gurukul should always move forward on the path of progress by imparting Vedic culture, modern, practical, cultured, moral and cultural education. The girl students of Gurukul become Chartered Accountant, Judge, Doctor, Engineer, Pilot, Scientist, I.A. S. and I.P.S. By becoming an officer, continue to contribute commendably in building the future society. "My cooperation and good wishes are always with the girl students." </p>
+                            <p class="justify">Dear students, Parents and Esteemed Faculty,</p>
+                            <p class="justify">It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence. At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow.
+                                As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.</p>
                             <br>
                             <!-- <p>I really prostrate before each and every one of those saintly souls. Because of their collective successful efforts, Gurukul has successfully finished its illustrious 50-year journey by making a number of accomplishments. The goal of the Gurukul education system is to fully develop the girl pupils so that they are capable of working and thinking critically. Every girl student at Gurukul Mor Majra has access to a secure and engaging learning environment.</p> -->
                         </div>
 
                         <div class="profile-content">
-                            <p class="designation">Jai Hind Jai Bharat, Jai Gurukul </p>
-                            <h4 class="name">Jasbir Singh Maan, Advocate</h4>
+                            <!-- <p class="designation">Jai Hind Jai Bharat, Jai Gurukul </p> -->
+                            <h4 class="name">Sukhbir Singh</h4>
                             <p class="designation"><b>President</p></b>
                             <br>
                             <!-- <a class="btn" href="president-message.php" style="padding: 0 50px;
