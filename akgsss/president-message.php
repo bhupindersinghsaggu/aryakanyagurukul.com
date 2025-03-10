@@ -40,19 +40,16 @@ include('_web/header.php')
                         <!-- Single Blog Start -->
                         <div class="single-blog single-blog-post">
                             <div class="blog-img">
-                                <a href="blog-details.php"><img src="assets/images/team/president.jpg" alt=""></a>
+                                <a href="blog-details.php"><img src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt=""></a>
                             </div>
                             <div class="blog-content">
-
-
-                                <p> Education is a collaborative effort of dedicated teachers, motivated students and enthusiastic parents. Better opportunities for safety and education of girls are available in Gurukul. Gurukul does all round development of girl students while providing education as well as protection. What should be the attitude towards parents and teachers, what is the responsibility towards the country and society, all these qualities are developed in the girl students. Due to which the girl students contribute in the building of the society by becoming the best citizens of the nation. The girl students of Gurukul have passed the board examinations with merit and first class, have also established new records in the field of sports through better training. I wish to the Almighty that Gurukul should always move forward on the path of progress by imparting Vedic culture, modern, practical, cultured, moral and cultural education. The girl students of Gurukul become Chartered Accountant, Judge, Doctor, Engineer, Pilot, Scientist, I.A. S. and I.P.S. By becoming an officer, continue to contribute commendably in building the future society. "My cooperation and good wishes are always with the girl students."</p>
+                                <p>Dear students, Parents and Esteemed Faculty,</p>
+                                <p> It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence. At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow. As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.</p>
                                 <div class="profile-content">
-                                    <p class="designation">Jai Hind Jai Bharat, Jai Gurukul</p>
-                                    <h4 class="name">Jasbir Singh Maan, Advocate</h4>
+                           
+                                    <h4 class="name">Sukhbir Singh/h4>
                                     <p class="designation"><b>President (Arya Kanya Gurukul Mor Majra,Karnal)</b></p>
-
                                 </div>
-
                             </div>
                         </div>
                         <!-- Single Blog End -->
