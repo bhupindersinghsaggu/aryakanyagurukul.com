@@ -178,7 +178,7 @@ include('_web/header.php');
                                                 <div class="text">
                                                     <h3><a href="#campus">Campus</a></h3>
 
-                                                  
+
                                                 </div>
                                             </div>
                                         </li>
@@ -188,7 +188,7 @@ include('_web/header.php');
                                                 <div class="text">
                                                     <h3><a href="#coures">Courses offered</a></h3>
 
-                                                   
+
                                                 </div>
                                             </div>
                                         </li>
@@ -196,9 +196,9 @@ include('_web/header.php');
                                     <!-- <div class="slider-btn mt-20">
                                         <a href="governing-body.php" class="btn ss-btn smoth-scroll">Read More <i class="fal fa-long-arrow-right"></i></a>
                                     </div> -->
-                                    
-                                     <h3 style="color: #f6520a;padding-top:90px;">Announcements</h3>
-                    <iframe src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGCE" height="400" width="600"></iframe>
+
+                                    <h3 style="color: #f6520a;padding-top:90px;">Announcements</h3>
+                                    <iframe src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGCE" height="400" width="600"></iframe>
                                     <!--<h3>Latest News</h3>-->
                                     <!--<marquee><a href="img/ad.jpg">-->
                                     <!--        <p class="txt-clr"> Advertisement -1 2024  <b>(Dated: Feb-2)</b> || Advertisement -1 2024  <b>(Dated: Feb-2)</b> || Advertisement -1 2024  <b>(Dated: Feb-2)</b> || </p>-->
@@ -646,31 +646,14 @@ include('_web/header.php');
                     <div class="text-column col-lg-7 col-md-12 col-sm-12">
                         <div class="s-about-content pl-30 wow fadeInRight" data-animation="fadeInRight" data-delay=".2s" style="visibility: visible; animation-name: fadeInRight">
                             <h2>Message From President</h2>
+                            <p>Dear students, Parents and Esteemed Faculty,</p>
+                            <p>
+                                It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence.
 
-                            <p>
-                                An Educational Institute like Gurukul is a ‘World in miniature’ where
-                                one receives ‘training for life’, where effective, meaningful and joyful
-                                learning take place. Our Gurukul is a place where our life’s lessons
-                                are learnt-to accept challenges, face competition, defeat and failure,
-                                rejoice at victory and triumph. Since 2008, Arya Kanya
-                                Gurukul,College of Education,Mor Majra,Karnal has been serving the
-                                society by providing high quality of education at the affordable cost.
-                                Arya Kanya Gurukul, Mor Majra, has successfully Completed its
-                                illustrious 50 year journey by making a number of accomplishments.
+                                At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow.
                             </p>
                             <p>
-                                The goal of the Gurulkul education system is to fully develop the girl
-                                pupils so that they are capable of working and thinking critically. In
-                                the last 50 years, Gurukul has produced unheard of advancement in
-                                the field of education, culture, sports and other activities. Gurukul is
-                                the better and safe place for girl’s students to begin their career.
-                                Our Management committee express the gratitude to the parents for
-                                their unstinted support, which helps make the dreams of our
-                                students come true.
-                            </p>
-                            <p>
-                                “Education is shared commitment between dedicated teachers,
-                                motivated students and enthusiastic parents with high expectations”.
+                            As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.
                             </p>
                             <div class="prev-link">
                                 <h4><a href="#">Advocate Jasbir Singh Maan</a></h4>
@@ -788,25 +771,25 @@ include('_web/header.php');
             </div>
         </div>
     </section>
-    
+
     <div class="section upstudy-category-section upstudy-category-section-03 section-padding-02" style="padding-bottom: 50px;">
-    <div class="container">
-        <div class="category-wrap">
-            <div class="row">
-                <div class="section-title text-center">
-                    <h2 class="title" style="padding-top:50px; padding-bottom:50px;">Photo Gallery</span></h2>
-                </div>
-            </div>
-            <div class="category-content-wrap">
-
+        <div class="container">
+            <div class="category-wrap">
                 <div class="row">
-                    <iframe src="https://curtina.in/_EazySchool/Crescent/PhotoGallery_AKGSS.aspx?AppId=AKGSS&cdn=http://curtina.in/AKGSS&fcode=AKGCE" style="height:380px; width:100% ;border:none;"></iframe>
+                    <div class="section-title text-center">
+                        <h2 class="title" style="padding-top:50px; padding-bottom:50px;">Photo Gallery</span></h2>
+                    </div>
+                </div>
+                <div class="category-content-wrap">
 
+                    <div class="row">
+                        <iframe src="https://curtina.in/_EazySchool/Crescent/PhotoGallery_AKGSS.aspx?AppId=AKGSS&cdn=http://curtina.in/AKGSS&fcode=AKGCE" style="height:380px; width:100% ;border:none;"></iframe>
+
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
     <!-- newslater-aread-end -->
 </main>
 <!-- main-area-end -->
