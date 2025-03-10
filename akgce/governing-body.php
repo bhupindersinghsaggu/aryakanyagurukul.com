@@ -51,30 +51,27 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/jasbirsingh.jpg" alt="img">
+                <img src="img/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt="img">
 
               </div>
             </div>
             <div class="team-info">
-              <h4>Sh. Jasbir Singh Maan</h4>
+              <h4>Sh. Sukhbir Singh</h4>
               <p>President</p>
 
             </div>
           </div>
         </div>
-        
         <div class="col-xl-3 col-md-6">
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/BijenderSinghMaan.jpg" alt="img">
+                <img src="img/mangement/2025/BHUPENDER_MANN_VICE_PRESIDENT.png" alt="img">
               </div>
-
             </div>
             <div class="team-info">
-              <h4>Sh. Bijender Singh Maan</h4>
+              <h4>Sh. Bhupender Maan</h4>
               <p>Vice- President </p>
-
             </div>
           </div>
         </div>
@@ -82,14 +79,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/general-secretorySH.RAM-SINGH.jpg" alt="img">
-
+                <img src="img/mangement/2025/om_parkash_Designation_General_Secretory.png" alt="img">
               </div>
             </div>
             <div class="team-info">
-              <h4>Sh. Ram Singh</h4>
+              <h4>Sh.Om Parkash</h4>
               <p>General Secretory</p>
-
             </div>
           </div>
         </div>
@@ -97,14 +92,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/gurudevsingh.jpg" alt="img">
+                <img src="img/mangement/2025/BALWAN_SINGH_JOINT_SECRETORY.png" alt="img">
               </div>
-
             </div>
             <div class="team-info">
-              <h4>Sh. Gurudev Singh</h4>
+              <h4>Sh. Balwan Singh</h4>
               <p>Joint Secretory </p>
-
             </div>
           </div>
         </div>
@@ -112,14 +105,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/ShSurenderSingh.jpg" alt="img">
+                <img src="img/mangement/2025/BHAGWAN_SINGH_EXECUTIVE_MEMBER.png" alt="img">
               </div>
-
             </div>
             <div class="team-info">
-            <h4>Sh. Ishwar Singh</h4>
+            <h4>Sh. Bhagwan Singh Singh</h4>
             <p>Executive Member </p>
-
             </div>
           </div>
         </div>
@@ -128,12 +119,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/Sh.NourngBangar.jpg" alt="img">
+                <img src="img/mangement/2025/BIJENDER_SINGH_EXECUTIVE_MEMBER.png" alt="img">
               </div>
 
             </div>
             <div class="team-info">
-              <h4>Sh. Nourng Bangar</h4>
+              <h4>Sh. Bijender Singh</h4>
               <p>Executive Member </p>
 
             </div>
@@ -143,12 +134,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/Sh.SurenderSingh.jpg" alt="img">
+                <img src="img/mangement/2025/MEHAR_SINGH_EXECUTIVE_MEMBER.png" alt="img">
               </div>
 
             </div>
             <div class="team-info">
-              <h4>Sh. Surender Singh</h4>
+              <h4>Sh. Mehar Singh Singh</h4>
               <p>Executive Member </p>
 
             </div>
@@ -160,12 +151,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/ShBhagwanSingh.jpg" alt="img">
+                <img src="img/mangement/2025/NARENDER_EXECUTIVE_MEMBER.png" alt="img">
               </div>
 
             </div>
             <div class="team-info">
-              <h4> Sh. Bhagwan Singh</h4>
+              <h4> Sh.Narender Singh</h4>
               <p>Executive Member            </p>
 
             </div>
@@ -175,12 +166,12 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/Sh.Bhupender-Singh.jpg" alt="img">
+                <img src="img/mangement/2025/SOMBIR_SINGH_EXECUTIVE_MEMBER.png" alt="img">
               </div>
 
             </div>
             <div class="team-info">
-              <h4>Sh.Bhupender Singh</h4>
+              <h4>Sh.Sombir Singh</h4>
               <p>Executive Member            </p>
 
             </div>
@@ -190,12 +181,11 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/Sh.BijenderMor.jpg" alt="img">
+                <img src="img/mangement/2025/TEJBIR_SINGH_EXECUTIVE_MEMBER.png" alt="img">
               </div>
-
             </div>
             <div class="team-info">
-              <h4>Sh. Bijender Mor</h4>
+              <h4>Sh. Tejbir Singh</h4>
               <p>Executive Member            </p>
 
             </div>
