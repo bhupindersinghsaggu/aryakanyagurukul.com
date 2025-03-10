@@ -43,7 +43,7 @@ include('_web/header.php')
                     </div>
                 </div>
                 <div class="col-lg-8">
-                <div class="single-blog single-blog-post">
+                <div class="blog-post-wrap">
                         <p>Dear students, Parents and Esteemed Faculty,</p>
                         <p> It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence. At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow. As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.</p>
                         <div class="profile-content">
