@@ -641,8 +641,6 @@ include('_web/header.php');
             <!-- Lower Content -->
             <div class="lower-content">
                 <div class="row">
-
-
                     <div class="text-column col-lg-7 col-md-12 col-sm-12">
                         <div class="s-about-content pl-30 wow fadeInRight" data-animation="fadeInRight" data-delay=".2s" style="visibility: visible; animation-name: fadeInRight">
                             <h2>Message From President</h2>
@@ -656,7 +654,7 @@ include('_web/header.php');
                             As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.
                             </p>
                             <div class="prev-link">
-                                <h4><a href="#">Advocate Jasbir Singh Maan</a></h4>
+                                <h4><a href="#">Sukhbir Singh</a></h4>
                                 <span>Arya Kanya Mahasabha Gurukul,
                                     Mor Majra,Karnal </span>
                             </div>
