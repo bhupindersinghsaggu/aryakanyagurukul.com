@@ -33,7 +33,7 @@ include('_web/header.php');
                             As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.
                             </p>
                             <h3>Sukhbir Singh
-                            /h3>
+</h3>
                             <h6>Arya Kanya Mahasabha Gurukul</h6>
                             <strong>Mor-Majra, Karnal</strong>
                             </p>
