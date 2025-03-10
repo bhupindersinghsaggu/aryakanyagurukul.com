@@ -79,7 +79,7 @@ include('_web/header.php');
           <div class="single-team mb-40">
             <div class="team-thumb">
               <div class="brd">
-                <img src="img/mangement/2025/om_parkash_Designation_General_Secretory.png" alt="img">
+                <img src="img/mangement/2025/OM_PARKASH_GENERAL_SECRETORY.png" alt="img">
               </div>
             </div>
             <div class="team-info">
@@ -98,6 +98,20 @@ include('_web/header.php');
             <div class="team-info">
               <h4>Sh. Balwan Singh</h4>
               <p>Joint Secretory </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-3 col-md-6">
+          <div class="single-team mb-40">
+            <div class="team-thumb">
+              <div class="brd">
+                <img src="img/mangement/2025/NARINDER_CASHIER.png" alt="img">
+              </div>
+            </div>
+            <div class="team-info">
+              <h4>Sh. Narinder </h4>
+              <p>Cashier           </p>
+
             </div>
           </div>
         </div>
@@ -191,6 +205,7 @@ include('_web/header.php');
             </div>
           </div>
         </div>
+        
         <table class="table table-striped">
           <tbody>
               <tr>
