@@ -671,7 +671,7 @@ include('_web/header.php');
                     </div>
                     <div class="col-lg-5 col-md-12 col-sm-12">
                         <div class="team-img-box">
-                            <a href="president-desk.php"><img src="img/team/team01.jpg" alt="img" /></a>
+                            <a href="president-desk.php"><img src="img/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt="img" /></a>
                         </div>
                     </div>
                 </div>
