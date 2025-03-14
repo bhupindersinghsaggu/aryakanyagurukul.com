@@ -106,7 +106,7 @@ include('_web/header.php');
                     </div>
                     <div class="team-info">
                         <h4>Sh. Narinder Singh </h4>
-                        <p>Cashier </p>
+                        <p>Treasurer </p>
                     </div>
                 </div>
             </div>

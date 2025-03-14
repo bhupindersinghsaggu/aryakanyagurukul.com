@@ -44,7 +44,7 @@ include('_web/header.php')
                         </div>
                     </div>
                     <div class="team-info">
-                        <h4>Sh. Sukhbir Singh Mann, Advocate</h4>
+                        <h4>Sh. Sukhbir Singh </h4>
                         <p>President</p>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ include('_web/header.php')
                     </div>
                     <div class="team-info">
                         <h4>Sh. Narinder Singh </h4>
-                        <p>Cashier </p>
+                        <p>Treasurer </p>
                     </div>
                 </div>
             </div>
