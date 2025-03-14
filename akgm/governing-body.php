@@ -28,14 +28,10 @@ include('_web/header.php');
                     <h3>
                         Maha Sabha Arya Kanya Gurukul,Mor-Majra (Karnal)
                     </h3>
-
                 </div>
             </div>
-
         </div>
-        <?php
-    include('governing-body.php');
-    ?>
+
     </div>
     </div>
 </section>
