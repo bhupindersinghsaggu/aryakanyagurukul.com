@@ -96,7 +96,7 @@ include('_web/header.php')
                         </div>
                     </div>
                     <div class="team-info">
-                        <h4>Sh. Narinder </h4>
+                        <h4>Sh. Narinder Singh </h4>
                         <p>Cashier </p>
                     </div>
                 </div>
@@ -150,7 +150,7 @@ include('_web/header.php')
                         </div>
                     </div>
                     <div class="team-info">
-                        <h4>Sh. Mehar Singh Singh</h4>
+                        <h4>Sh. Mehar Singh </h4>
                         <p>Executive Member </p>
                     </div>
                 </div>
@@ -163,7 +163,7 @@ include('_web/header.php')
                         </div>
                     </div>
                     <div class="team-info">
-                        <h4>Sh.Sombir Singh</h4>
+                        <h4>Sh.Sombir </h4>
                         <p>Executive Member </p>
                     </div>
                 </div>
@@ -176,7 +176,7 @@ include('_web/header.php')
                         </div>
                     </div>
                     <div class="team-info">
-                        <h4> Sh.Narender Singh</h4>
+                        <h4> Sh.Narender </h4>
                         <p>Executive Member </p>
                     </div>
                 </div>
