@@ -723,7 +723,7 @@ include('_web/header.php')
                     <!-- Team Profile Start -->
                     <div class="team-profile text-center">
                         <div class="profile-img">
-                            <img src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png">
+                            <img src="assets/images/1.jpg">
                         </div>
 
                     </div>
