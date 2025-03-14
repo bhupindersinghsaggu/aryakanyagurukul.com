@@ -21,7 +21,7 @@ include('_web/header.php');
                     <div class="courses-card">
                         <h2>From the President Desk</h2>
                         <div class="img">
-                            <img src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt="Image">
+                            <img src="1.jpg" alt="Image">
                         </div>
                         <p>Dear students, Parents and Esteemed Faculty,</p>
                         <p>

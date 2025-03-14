@@ -458,7 +458,7 @@ include('_web/header.php')
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-12">
-                    <img class="img-fluid" src="images/team/01.jpg" alt="">
+                    <img class="img-fluid" src="1.jpg" alt="">
                 </div>
                 <div class="col-lg-8 col-md-12 mt-5 mt-lg-0 ps-lg-6">
                     <div class="team-description">

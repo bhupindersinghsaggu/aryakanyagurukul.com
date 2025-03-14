@@ -509,7 +509,7 @@ include('_web/header.php');
                         data-aos-once="true">
                         <div class="single-podcasts-card style2">
                             <div class="podcasts-image">
-                                <img src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png">
+                                <img src="1.jpg">
 
                             </div>
                             <div class="podcast-content">

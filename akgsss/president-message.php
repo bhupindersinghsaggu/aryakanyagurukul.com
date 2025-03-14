@@ -37,8 +37,7 @@ include('_web/header.php')
                     <div class="">
                         <div class="single-blog single-blog-post">
                             <div class="blog-img">
-                                <a href="blog-details.php"><img
-                                        src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png" alt=""></a>
+                                <a href="blog-details.php"><img src="1.jpg" alt=""></a>
                             </div>
                         </div>
                     </div>

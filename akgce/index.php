@@ -694,7 +694,7 @@ include('_web/header.php');
                     </div>
                     <div class="col-lg-5 col-md-12 col-sm-12">
                         <div class="team-img-box">
-                            <a href="president-desk.php"><img src="img/1.jpg"></a>
+                            <a href="president-desk.php"><img src="1.jpg"></a>
                         </div>
                     </div>
                 </div>
