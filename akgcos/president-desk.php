@@ -24,7 +24,7 @@ include('_web/header.php')
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-12">
-                <img class="img-fluid" src="images/team/01.jpg" alt="">
+                <img class="img-fluid" src="1.jpg" alt="">
             </div>
             <div class="col-lg-8 col-md-12 mt-5 mt-lg-0 ps-lg-6">
                 <div class="team-description">
@@ -58,7 +58,7 @@ include('_web/header.php')
                         साथ है।</p>
                     <p>जयहिन्द, जयभारत, जयगुरुकुल</p>
                     <h4>प्रधान</h4>
-                    <h5>जसबीर सिंह मान,एडवोकेट </h5>
+                    <h5>सुखबीर सिंह, एडवोकेट </h5>
                     <p>महासभा आर्य कन्या गुरुकुल
                         मोरमाजरा, करनाल</p>
 

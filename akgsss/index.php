@@ -6,7 +6,8 @@ include('_web/header.php')
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" style="margin-top: 70px;">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/9.png);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/9.png);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -16,7 +17,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item active">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/17.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/17.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -26,7 +28,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/1.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/1.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -36,7 +39,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/2.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/2.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -46,7 +50,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/3.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/3.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -56,7 +61,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/4.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/4.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -66,7 +72,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/5.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/5.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -76,7 +83,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/6.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/6.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -86,7 +94,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/7.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/7.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -96,7 +105,8 @@ include('_web/header.php')
             </div>
         </div>
         <div class="carousel-item">
-            <div class="upstudy-hero-section-06 d-flex align-items-center section" style="background-image: url(assets/images/slider/8.jpg);">
+            <div class="upstudy-hero-section-06 d-flex align-items-center section"
+                style="background-image: url(assets/images/slider/8.jpg);">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-xl-7 col-lg-8 col-md-10">
@@ -129,16 +139,22 @@ include('_web/header.php')
                             <h2 class="title">Arya Kanya Gurukul Senior Secondary School</h2>
                         </div>
                         <!-- Section Title End -->
-                        <p class="text justify"> Arya Kanya Gurukul Senior Secondary School is a leading name in the field of girls education Established in 1973 under Arya kanya Gurukul Mahasabha, Mor Majra, Karnal. The school has earned itself a recognition of being one of top institutes in the field.</p>
+                        <p class="text justify"> Arya Kanya Gurukul Senior Secondary School is a leading name in the
+                            field of girls education Established in 1973 under Arya kanya Gurukul Mahasabha, Mor Majra,
+                            Karnal. The school has earned itself a recognition of being one of top institutes in the
+                            field.</p>
                         <div class="about-list">
                             <ul>
                                 <li>
                                     <span class="about-icon"><i class="fas fa-check"></i></span>
-                                    <span class="about-text justify">We provide best modern education along with ancient vedic wisdom to our students. We empower our learners with abilities that enable them to serve our society in any dimension. </span>
+                                    <span class="about-text justify">We provide best modern education along with ancient
+                                        vedic wisdom to our students. We empower our learners with abilities that enable
+                                        them to serve our society in any dimension. </span>
                                 </li>
                                 <li>
                                     <span class="about-icon"><i class="fas fa-check"></i></span>
-                                    <span class="about-text justify"> The main objective of Gurukul is to develop an ecosystem for complete holistic development of our Learners.</span>
+                                    <span class="about-text justify"> The main objective of Gurukul is to develop an
+                                        ecosystem for complete holistic development of our Learners.</span>
                                 </li>
                             </ul>
                         </div>
@@ -250,7 +266,9 @@ include('_web/header.php')
                     <!-- About Image Start -->
                     <div class="about-img-wrap">
                         <h3 style="color: #f6520a;">Announcements</h3>
-                        <iframe src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGSS" height="500" width="600"></iframe>
+                        <iframe
+                            src="https://curtina.in/_EazySchool/crescent/NewsEvents_AKGSS.aspx?AppId=akgss&cdn=http://curtina.in/akgss&fcode=AKGSS"
+                            height="500" width="600"></iframe>
 
                         <!-- <div class="about-img-big">
                             <img src="assets/images/hero-img3.png" alt="">
@@ -415,7 +433,8 @@ include('_web/header.php')
         <!-- Blog Wrap End -->
     </div>
 </div>
-<div class="section upstudy-category-section upstudy-category-section-03 section-padding-02" style="padding-bottom: 50px;">
+<div class="section upstudy-category-section upstudy-category-section-03 section-padding-02"
+    style="padding-bottom: 50px;">
     <div class="container">
         <div class="category-wrap">
             <div class="row">
@@ -532,7 +551,8 @@ include('_web/header.php')
                             </h2>
                         </div>
                         <!-- Section Title End -->
-                        <p class="text justify">In a Environment filled with boundless positivity, we foster the development
+                        <p class="text justify">In a Environment filled with boundless positivity, we foster the
+                            development
                             of our young learners, encouraging them to thrive and expand their knowledge. We
                             embrace a teaching approach that values playful exploration and fosters creative
                             thinking. Within our nurturing environment, our cherished little ones flourish,
@@ -585,7 +605,8 @@ include('_web/header.php')
                         </div>
                         <div class="features-content">
                             <h3 class="title">Play To Learn</h3>
-                            <p class="justify">Our approach, "Play To Learn," recognizes that play is an essential part of a
+                            <p class="justify">Our approach, "Play To Learn," recognizes that play is an essential part
+                                of a
                                 child's educational journey. </p>
                         </div>
                     </div>
@@ -652,7 +673,8 @@ include('_web/header.php')
         <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 146" width="1920" height="146">
             <title>small-triangles-bottom-svg</title>
             <defs>
-                <image width="500" height="56" id="img1" href="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNTUuNSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5zbWFsbC10cmlhbmdsZXMtYm90dG9tPC90aXRsZT48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMCA1NS41IDAgMC41IDM1LjI3IDM3IDcwLjUzIDAuNSAxMDYuMjggMzcuNSAxNDIuMDMgMC41IDE3Ny43OCAzNy41IDIxMy41MyAwLjUgMjQ5LjI4IDM3LjUgMjg0LjU0IDEgMzIwLjI5IDM4IDM1Ni41MiAwLjUgMzkyLjI3IDM3LjUgNDI3LjU0IDEgNDYzLjI5IDM4IDUwMCAwIDUwMCA1NS41IDAgNTUuNSIvPjwvc3ZnPg==">
+                <image width="500" height="56" id="img1"
+                    href="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNTUuNSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5zbWFsbC10cmlhbmdsZXMtYm90dG9tPC90aXRsZT48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMCA1NS41IDAgMC41IDM1LjI3IDM3IDcwLjUzIDAuNSAxMDYuMjggMzcuNSAxNDIuMDMgMC41IDE3Ny43OCAzNy41IDIxMy41MyAwLjUgMjQ5LjI4IDM3LjUgMjg0LjU0IDEgMzIwLjI5IDM4IDM1Ni41MiAwLjUgMzkyLjI3IDM3LjUgNDI3LjU0IDEgNDYzLjI5IDM4IDUwMCAwIDUwMCA1NS41IDAgNTUuNSIvPjwvc3ZnPg==">
                 </image>
             </defs>
             <style>
@@ -701,7 +723,7 @@ include('_web/header.php')
                     <!-- Team Profile Start -->
                     <div class="team-profile text-center">
                         <div class="profile-img">
-                            <img src="assets/images/mangement/2025/SUKHBIR_SINGH_PRESIDENT.png">
+                            <img src="1.jpg">
                         </div>
 
                     </div>
@@ -715,15 +737,21 @@ include('_web/header.php')
                         <div class="team-profile-description">
                             <h3 class="title">Message from President</h3>
                             <p class="justify">Dear students, Parents and Esteemed Faculty,</p>
-                            <p class="justify">It is with great joy and pride that I welcome you to Arya Kanya Gurukul, a place of learning, growth and excellence. At our Gurukul believe in nurturing young minds nith knowledge, discipline and values that shape responsible citizens. Our mission is to empower girls with skills, wisdom and confidence to excel in all walks of life .Remember education is not just about acquiring knowledge but about developing a mindset of curiosity. Believe in yourself, work hard and success will follow.
-                                As we move forward let us work together to make Gurukul a place of inspiration and excellence. Wishing you all a year filled with learning, growth and success.</p>
+                            <p class="justify">It is with great joy and pride that I welcome you to Arya Kanya Gurukul,
+                                a place of learning, growth and excellence. At our Gurukul believe in nurturing young
+                                minds nith knowledge, discipline and values that shape responsible citizens. Our mission
+                                is to empower girls with skills, wisdom and confidence to excel in all walks of life
+                                .Remember education is not just about acquiring knowledge but about developing a mindset
+                                of curiosity. Believe in yourself, work hard and success will follow.
+                                As we move forward let us work together to make Gurukul a place of inspiration and
+                                excellence. Wishing you all a year filled with learning, growth and success.</p>
                             <br>
                             <!-- <p>I really prostrate before each and every one of those saintly souls. Because of their collective successful efforts, Gurukul has successfully finished its illustrious 50-year journey by making a number of accomplishments. The goal of the Gurukul education system is to fully develop the girl pupils so that they are capable of working and thinking critically. Every girl student at Gurukul Mor Majra has access to a secure and engaging learning environment.</p> -->
                         </div>
 
                         <div class="profile-content">
                             <!-- <p class="designation">Jai Hind Jai Bharat, Jai Gurukul </p> -->
-                            <h4 class="name">Sukhbir Singh</h4>
+                            <h4 class="name">Sukhbir Singh Mann, Advocate</h4>
                             <p class="designation"><b>President</p></b>
                             <br>
                             <!-- <a class="btn" href="president-message.php" style="padding: 0 50px;
@@ -743,11 +771,27 @@ include('_web/header.php')
                             <h3 class="title">Message from Principal</h3>
                             <p class="justify">Regards, Parents
                             <p class="justify">
-                                I'd want to express my heartfelt gratitude to everyone of the Gurukul's diligent management committee, staff members and all the students. It is a huge honour for me to serve as the Principal of Gurukul. By mixing vedic heritage and modernity in Gurukul, we hope to instill moral values, discipline, hard work and determination in girls. In Gurukul, every day is a new day, I tackle new challenges with new energy and new learning. The bright smiles of the gurukul students as well as the prospect of a happy future motivate me to work hard for the Gurukul.
+                                I'd want to express my heartfelt gratitude to everyone of the Gurukul's diligent
+                                management committee, staff members and all the students. It is a huge honour for me to
+                                serve as the Principal of Gurukul. By mixing vedic heritage and modernity in Gurukul, we
+                                hope to instill moral values, discipline, hard work and determination in girls. In
+                                Gurukul, every day is a new day, I tackle new challenges with new energy and new
+                                learning. The bright smiles of the gurukul students as well as the prospect of a happy
+                                future motivate me to work hard for the Gurukul.
 
-                                Dear Parents, School is the sole social platform where a child can become acquainted with the real world and secure his future in the company of well mannered and competent teachers. According to recent academic research, the degenerate nature and fall of moral standards of the next generation is a source of concern for parents, teachers, society and nation. The School, together with the teachers, plays a crucial part in buiding the girl students in the right direction. Our Gurukul is focused on the girl students' complete development as a responsible society of this beautiful nation.
+                                Dear Parents, School is the sole social platform where a child can become acquainted
+                                with the real world and secure his future in the company of well mannered and competent
+                                teachers. According to recent academic research, the degenerate nature and fall of moral
+                                standards of the next generation is a source of concern for parents, teachers, society
+                                and nation. The School, together with the teachers, plays a crucial part in buiding the
+                                girl students in the right direction. Our Gurukul is focused on the girl students'
+                                complete development as a responsible society of this beautiful nation.
 
-                                Dear Girl Students, persons of excellent character live in their best selves, always committed to the truth in thought, word and deed. Develops your character by following the great sages and contributing to nation building through noble deeds. Remember that there is no shortcut to success, it requires hard work. I will always carry out my Gurukul duties conscientiously . </p><br>
+                                Dear Girl Students, persons of excellent character live in their best selves, always
+                                committed to the truth in thought, word and deed. Develops your character by following
+                                the great sages and contributing to nation building through noble deeds. Remember that
+                                there is no shortcut to success, it requires hard work. I will always carry out my
+                                Gurukul duties conscientiously . </p><br>
                             <p>"Ready to serve Gurukul and Girl Students"</p>
                         </div>
 
@@ -778,7 +822,8 @@ include('_web/header.php')
         </div>
     </div>
 </div>
-<div class="section upstudy-category-section upstudy-category-section-03 section-padding-02" style="padding-bottom: 50px;">
+<div class="section upstudy-category-section upstudy-category-section-03 section-padding-02"
+    style="padding-bottom: 50px;">
     <div class="container">
         <div class="category-wrap">
             <div class="row">
@@ -789,7 +834,9 @@ include('_web/header.php')
             <div class="category-content-wrap">
 
                 <div class="row">
-                    <iframe src="https://curtina.in/_EazySchool/Crescent/PhotoGallery_AKGSS.aspx?AppId=AKGSS&cdn=http://curtina.in/AKGSS&fcode=AKGSS" style="height:380px; width:100% ;border:none;"></iframe>
+                    <iframe
+                        src="https://curtina.in/_EazySchool/Crescent/PhotoGallery_AKGSS.aspx?AppId=AKGSS&cdn=http://curtina.in/AKGSS&fcode=AKGSS"
+                        style="height:380px; width:100% ;border:none;"></iframe>
 
                 </div>
             </div>
