@@ -232,16 +232,16 @@
             </div> -->
       </div>
     </div>
-    <div id="popup" class="popup-overlay">
+    <!-- <div id="popup" class="popup-overlay">
       <div class="popup-content">
-        <!-- <h2>List of Members </h2> -->
+        <h2>List of Members </h2>
         <p style="text-align: center; font-size:20px;"><strong> चुनाव अधिसूचना</strong> <br>
         <p style="text-align: justify;">महासभा आर्य कन्या गुरुकुल मोरमाजरा, करनाल की कार्यकारिणी के चुनाव कार्यक्रम की अधिसूचना को दिनाकं <b>22.01.2025</b> के The Tribune व अमरउजाला अखबार में प्रकाशित करवा गया हैं साथ ही गुरुकुल मोरमाजरा करनाल की वेबसाइट <b>www.aryakanyagurukul.com</b> व सूचना पट्ट पर भी चस्पा दिया गया है।
         <p>
 
         <p style="text-align: left;"><b>जसबीर सिंह मान एडवोकेट, प्रधान</b><br>
         <p style="text-align: left;">महासभा आर्य कन्या गुरुकुल, मोर माजरा करनाल।</p>
-        <!-- <img src="assets/images/pop1.jpg"> -->
+        <img src="assets/images/pop1.jpg">
         <b><a href="assets/images/list.pdf" target="_blank">
             <p style="text-align: left;">1. Check List- dt 04.01.2025 - List of Members Entitled to Vote </b> <br> </a></p>
         <b><a href="assets/images/pop1.jpg" target="_blank">
@@ -251,7 +251,7 @@
           </a></b><br> </p>
         <button class="close-btn" onclick="closePopup()">Close</button>
       </div>
-    </div>
+    </div> -->
     <div class="footer-area pt-10 pb-10">
       <div class="container">
         <div class="copyright-area">
