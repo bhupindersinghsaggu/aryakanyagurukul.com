@@ -81,7 +81,7 @@ include('_web/header.php');
                                 </strong></td>
                             <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/sahil.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/sahil.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
-                          <tr>
+                        <tr>
                             <td width="28"><b>3</b></td>
                             <td width="107"><strong>Ms. Renu Bala</strong></td>
                             <td width="111"><strong>Office Cum Accounts Assistant</strong></td>
@@ -93,12 +93,12 @@ include('_web/header.php');
                                 </strong></td>
                             <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/renu.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/renu.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
-                            <tr>
+                        <tr>
                             <td width="28"><b>4</b></td>
                             <td width="107"><strong>Mr. Manuj</strong></td>
-                            <td width="111"><strong>Office Assistant cum 
-Computer Operator</strong><br>
-                                
+                            <td width="111"><strong>Office Assistant cum
+                                    Computer Operator</strong><br>
+
                             </td>
                             <td width="175"><strong>B.Com</strong></td>
                             <td width="152"><strong>01.12.2023
@@ -108,8 +108,8 @@ Computer Operator</strong><br>
                                 </strong></td>
                             <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/manuj.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/manuj.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
-                       
-                      
+
+
                         <tr>
                             <td width="28"><b>5</b></td>
                             <td width="107"><strong>Ms. Kusum Devi</strong></td>
@@ -137,7 +137,7 @@ Computer Operator</strong><br>
                                 </strong></td>
                             <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/raj.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/raj.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
-                    <!--    <tr>
+                        <!--    <tr>
                             <td width="28"><b>6</b></td>
                             <td width="107"><strong>Mr. Rajroop</strong></td>
                             <td width="111"><strong>Gardner
@@ -180,7 +180,7 @@ Computer Operator</strong><br>
                                 </strong></td>
                             <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/preeti.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/preeti.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
-                        
+
                     </tbody>
                 </table>
             </div>
