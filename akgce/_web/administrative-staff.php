@@ -140,6 +140,31 @@ include('_web/header.php');
                             <td width="81"><strong>Fix Pay</strong></td>
                             <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/raj.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/raj.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
+                         <tr>
+                            <td width="28"><b>6</b></td>
+                            <td width="107"><strong>Mr. Rajroop</strong></td>
+                            <td width="111"><strong>Gardner</strong></td>
+                            <td width="175"><strong>--</strong></td>
+                            <td width="152"><strong>CAMK1199/19C</strong><br>
+                                <strong> 01/07/2023</strong>
+                            </td>
+                            <td width="71"><strong>04/07/2019</strong></td>
+                            <td width="91"><strong>Contract</strong></td>
+                            <td width="81"><strong>Fix Pay</strong></td>
+                            <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/rajroop.png" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/raj.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
+                        </tr> <tr>
+                            <td width="28"><b>6</b></td>
+                            <td width="107"><strong>Mr. Raj kumar</strong></td>
+                            <td width="111"><strong>Helper</strong></td>
+                            <td width="175"><strong>--</strong></td>
+                            <td width="152"><strong>CAMK1199/19C</strong><br>
+                                <strong> 04/07/2019</strong>
+                            </td>
+                            <td width="71"><strong>04/07/2019</strong></td>
+                            <td width="91"><strong>Contract</strong></td>
+                            <td width="81"><strong>Fix Pay</strong></td>
+                            <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/raj.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/raj.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
