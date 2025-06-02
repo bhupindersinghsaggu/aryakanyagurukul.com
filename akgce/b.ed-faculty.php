@@ -40,7 +40,6 @@ include('_web/header.php');
                 <h5>Detail of B.Ed Staff (2023-2024)
                 </h5>
                 <table class="table table-striped">
-
                     <tbody>
                         <tr>
                             <td style="width: 70.9pt;border: 1pt solid windowtext;padding: 0cm 5.4pt;height: 31.5pt;vertical-align: top;">
@@ -102,7 +101,7 @@ include('_web/header.php');
                         </tr>
                         <tr>
                             <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 67.5pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>1</span></p>
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>2</span></p>
                             </td>
                             <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 67.5pt;vertical-align: top;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Ms. Vibha<br>Singh</span></p>
@@ -123,7 +122,7 @@ include('_web/header.php');
                         </tr>
                         <tr>
                             <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 74.25pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>2</span></p>
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>3</span></p>
                             </td>
                             <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 74.25pt;vertical-align: top;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Ms. Sarita Ranga</span></p>
@@ -144,7 +143,7 @@ include('_web/header.php');
                         </tr>
                         <tr>
                             <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 74.25pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>3</span></p>
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>4</span></p>
                             </td>
                             <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 74.25pt;vertical-align: top;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-family:"Arial","sans-serif";'>Dr. Meena</span></p>
@@ -166,7 +165,7 @@ include('_web/header.php');
                        
                         <tr>
                             <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>6</span></p>
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>5</span></p>
                             </td>
                             <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Dr. Rajni Rani</span></p>
@@ -188,7 +187,7 @@ include('_web/header.php');
                         </tr>
                         <tr>
                             <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>7</span></p>
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>6</span></p>
                             </td>
                             <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Ms. Meenu</span></p>
@@ -211,7 +210,7 @@ include('_web/header.php');
                         </tr>
                         <tr>
                             <td style="width: 70.9pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
-                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>8</span></p>
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>7</span></p>
                             </td>
                             <td style="width: 89.1pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;height: 44.2pt;vertical-align: top;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>Ms.Sonia Devi</span></p>
