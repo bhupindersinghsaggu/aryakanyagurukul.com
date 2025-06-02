@@ -130,7 +130,6 @@
                                             <ul>
                                                 <li><a href="b.ed.php">B.Ed Programmes</a></li>
                                                 <li><a href="d.el.ed.php">D El.Ed. Programmes</a></li>
-                                                <li><a href="b.e.ed.php">B.P.Ed Programmes</a></li>
                                                 <li class="has-sub"><a href="#">Time Table</a>
                                                     <ul>
                                                         <li><a href="d.el.ed-time-table.php">D El.Ed. Time Table</a></li>

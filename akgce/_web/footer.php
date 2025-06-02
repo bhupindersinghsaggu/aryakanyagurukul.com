@@ -42,7 +42,6 @@
                                         Diploma in Elementary Education (D.El.Ed.)
                                     </a>
                                 </li>
-                                <li><a href="about.php"> B.P.Ed Programmes </a></li>
                             </ul>
                         </div>
                     </div>
