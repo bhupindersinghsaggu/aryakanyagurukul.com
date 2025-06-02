@@ -178,7 +178,7 @@ include('_web/header.php');
                             </td>
                             <td width="71"><strong>--
                                 </strong></td>
-                            <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/suman.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/preeti.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
+                            <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/suman.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/suman.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
                          <tr>
                             <td width="28"><b>8</b></td>
@@ -193,7 +193,7 @@ include('_web/header.php');
                             </td>
                             <td width="71"><strong>--
                                 </strong></td>
-                            <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/anju1.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/preeti.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
+                            <td width="127"><img loading="lazy" class="alignnone size-medium wp-image-732" src="img/staff/b.ed/anju1.jpg" alt="SEEMA LIBRARY 001" width="243" height="300" srcset="img/staff/b.ed/anju.jpg" sizes="(max-width: 243px) 100vw, 243px"></strong></td>
                         </tr>
 
                     </tbody>
