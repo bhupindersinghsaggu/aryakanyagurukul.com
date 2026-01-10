@@ -250,7 +250,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024/arts/varsha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/arts/11.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">ASTHA</h4>
@@ -262,7 +262,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024/arts/varsha2.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/arts/12.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">KHUSHI</h4>
