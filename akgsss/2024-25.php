@@ -38,10 +38,10 @@ include('_web/header.php')
                     <div class="blog-post-wrap">
                         <div class="single-blog single-blog-post">
                             <h3 class="title">Class X H.B.S.E Toppers</h3>
-                             
+
                             <div class="blog-content">
                                 <div class="row">
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-10/2024-25/1.png" class="my-image" alt="">
@@ -53,21 +53,21 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
-                                             <div class="team-img result-img">
+                                            <div class="team-img result-img">
                                                 <img src="assets/images/result/class-10/2024-25/2.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">AANCHAL RANA</h4>
-                                               <p>485 (97.00%)</p>
+                                                <p>485 (97.00%)</p>
                                                 <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
-                                             <div class="team-img result-img">
+                                            <div class="team-img result-img">
                                                 <img src="assets/images/result/class-10/2024-25/3.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
@@ -78,17 +78,17 @@ include('_web/header.php')
                                         </div>
                                     </div>
                                 </div>
-                                  <div class="result-img">
-                        <a class="btn" href="result-10-2023.pdf" style="padding: 0 50px;
+                                <div class="result-img">
+                                    <a class="btn" href="result-10-2023.pdf" style="padding: 0 50px;
                                         border-radius: 35px;
                                         background: #f6520a;
                                         margin-top: 30px;margin-bottom: 30px;">See All Topper of Class X </a>
-                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="single-blog single-blog-post">
                             <h3 class="title">Class XII H.B.S.E Toppers</h3>
-                             <h4 class="stm">Non-Medical</h4>
+                            <h4 class="stm">Non-Medical</h4>
                             <div class="blog-content">
                                 <div class="row">
                                     <div class="col-lg-3 col-sm-6">
@@ -106,11 +106,11 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                               <img src="assets/images/result/class-12/2024-25/non-medical/shaily.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/non-medical/shaily.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Shaily</h4>
-                                               <p>467 (93.40%)</p>
+                                                <p>467 (93.40%)</p>
                                                 <p><b>Session 2023-24</b></p>
                                             </div>
                                         </div>
@@ -118,7 +118,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/non-medical/shruti.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/non-medical/shruti.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Shruti</h4>
@@ -130,7 +130,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/non-medical/prachi.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/non-medical/prachi.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Prachi</h4>
@@ -143,8 +143,8 @@ include('_web/header.php')
                             </div>
                         </div>
                         <div class="single-blog single-blog-post">
-                            
-                             <h4 class="stm">Medical</h4>
+
+                            <h4 class="stm">Medical</h4>
                             <div class="blog-content">
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6">
@@ -162,11 +162,11 @@ include('_web/header.php')
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                               <img src="assets/images/result/class-12/2024-25/medical/aashna.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/medical/aashna.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Aashana</h4>
-                                               <p>442 (88.40%)</p>
+                                                <p>442 (88.40%)</p>
                                                 <p><b>Session 2023-24</b></p>
                                             </div>
                                         </div>
@@ -174,7 +174,7 @@ include('_web/header.php')
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/medical/shiwani.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/medical/shiwani.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Shiwani</h4>
@@ -183,12 +183,12 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                          <div class="single-blog single-blog-post">
-                            
+                        <div class="single-blog single-blog-post">
+
                             <h4 class="stm">Commerce</h4>
                             <div class="blog-content">
                                 <div class="row">
@@ -207,11 +207,11 @@ include('_web/header.php')
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                               <img src="assets/images/result/class-12/2024-25/commerce/neha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/commerce/neha.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Neha</h4>
-                                               <p>454 (90.80%)</p>
+                                                <p>454 (90.80%)</p>
                                                 <p><b>Session 2023-24</b></p>
                                             </div>
                                         </div>
@@ -219,7 +219,7 @@ include('_web/header.php')
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/commerce/isha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/commerce/isha.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Ishu Dalal</h4>
@@ -228,12 +228,12 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                    <div class="single-blog single-blog-post">
-                            
+                        <div class="single-blog single-blog-post">
+
                             <h4 class="stm">Arts</h4>
                             <div class="blog-content">
                                 <div class="row">
@@ -252,11 +252,11 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                               <img src="assets/images/result/class-12/2024-25/arts/shiksha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/shiksha.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Shiksha</h4>
-                                               <p>478 (95.6%)</p>
+                                                <p>478 (95.6%)</p>
                                                 <p><b>Session 2023-24</b></p>
                                             </div>
                                         </div>
@@ -264,7 +264,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/varsha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/varsha.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Varsha</h4>
@@ -276,7 +276,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/varsha2.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/varsha2.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Varsha</h4>
@@ -288,7 +288,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/tannu.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/tannu.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Tannu</h4>
@@ -300,7 +300,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/muskan.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/muskan.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Muskaan</h4>
@@ -312,7 +312,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/swati.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/swati.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Swati</h4>
@@ -321,11 +321,11 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    
-                                     <div class="col-lg-3 col-sm-6">
+
+                                    <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/monika.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/monika.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Monika</h4>
@@ -337,7 +337,7 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/neha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/neha.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Neha</h4>
@@ -346,11 +346,11 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                 <img src="assets/images/result/class-12/2024-25/arts/anju.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024-25/arts/anju.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
                                                 <h4 class="name">Anju</h4>
@@ -359,19 +359,19 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                     
-                                                                    </div>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-                    
-                    
-                  
-                    
-                    
-                    
+
+
+
+
+
+
                 </div>
-             <!--   <div class="col-lg-4">
+                <!--   <div class="col-lg-4">
                     <div class="blog-sidebar">
                         <div class="sidebar-widget">
                             <div class="widget-title">
