@@ -44,24 +44,24 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
-                                                <img src="assets/images/result/class-10/2023-24/1.jpg" class="my-image" alt="">
+                                                <img src="assets/images/result/class-10/2024-25/1.jpg" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Khushi</h4>
-                                                <p>487 (97.40%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">TANYA </h4>
+                                                <p>492 (98.40%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                              <div class="team-img result-img">
-                                                <img src="assets/images/result/class-10/2023-24/2.jpg" class="my-image" alt="">
+                                                <img src="assets/images/result/class-10/2024-25/2.jpg" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Khushi</h4>
-                                               <p>487 (97.40%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">AANCHAL RANA</h4>
+                                               <p>485 (97.00%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -71,9 +71,9 @@ include('_web/header.php')
                                                 <img src="assets/images/result/class-10/2023-24/3.jpg" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Muskan</h4>
-                                                <p>485 (97%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">SHAGUN</h4>
+                                                <p>476 (95.20%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
