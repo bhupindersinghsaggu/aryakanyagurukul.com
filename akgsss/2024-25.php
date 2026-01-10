@@ -78,12 +78,12 @@ include('_web/header.php')
                                         </div>
                                     </div>
                                 </div>
-                                <div class="result-img">
+                                <!-- <div class="result-img">
                                     <a class="btn" href="result-10-2023.pdf" style="padding: 0 50px;
                                         border-radius: 35px;
                                         background: #f6520a;
                                         margin-top: 30px;margin-bottom: 30px;">See All Topper of Class X </a>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="single-blog single-blog-post">
@@ -94,48 +94,36 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/non-medical/rachna.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/non-medical/4.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Rachna</h4>
-                                                <p>467 (93.40%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">YASHASWINI CHAUDHARY</h4>
+                                                <p>462 (92.40%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/non-medical/shaily.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/non-medical/5.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Shaily</h4>
-                                                <p>467 (93.40%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">VANSHIKA </h4>
+                                                <p>448 (89.60%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/non-medical/shruti.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/non-medical/6.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Shruti</h4>
-                                                <p>455 (91%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/non-medical/prachi.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Prachi</h4>
-                                                <p>449 (89.80%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">YOGITA</h4>
+                                                <p>447 (89.40%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -150,81 +138,79 @@ include('_web/header.php')
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/medical/simran.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/medical/1.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Simran</h4>
-                                                <p>445 (89%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">VANSHI JANGWAL</h4>
+                                                <p>469 (93.80%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/medical/aashna.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/medical/2.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Aashana</h4>
-                                                <p>442 (88.40%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">YASHIKA</h4>
+                                                <p>454 (90.80%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/medical/shiwani.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/medical/3.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Shiwani</h4>
-                                                <p>437 (87.40%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">AYUSHI SINGH</h4>
+                                                <p>450 (90.00%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
                         <div class="single-blog single-blog-post">
-
                             <h4 class="stm">Commerce</h4>
                             <div class="blog-content">
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/commerce/shiksha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/commerce/1.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Shiksha</h4>
-                                                <p>461 (92.20%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">GARIMA</h4>
+                                                <p>479 (95.80%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/commerce/neha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/commerce/7.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Neha</h4>
-                                                <p>454 (90.80%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">ANGEL</h4>
+                                                <p>475 (95.00%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/commerce/isha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/commerce/8.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Ishu Dalal</h4>
-                                                <p>448 (89.60%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">VANSHIKA</h4>
+                                                <p>473 (94.60%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
@@ -240,136 +226,55 @@ include('_web/header.php')
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/kaffi.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/arts/9.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Kaffi</h4>
+                                                <h4 class="name">SAMRITI</h4>
                                                 <p>480 (96%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/shiksha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/arts/10.png" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Shiksha</h4>
-                                                <p>478 (95.6%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">DEEPIKA</h4>
+                                                <p>479 (95.8%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/varsha.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/arts/varsha.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Varsha</h4>
-                                                <p>476 (95.20%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">ASTHA</h4>
+                                                <p>479 (95.80%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/varsha2.JPG" class="my-image" alt="">
+                                                <img src="assets/images/result/class-12/2024/arts/varsha2.JPG" class="my-image" alt="">
                                             </div>
                                             <div class="team-content text-center">
-                                                <h4 class="name">Varsha</h4>
-                                                <p>468 (93.60%)</p>
-                                                <p><b>Session 2023-24</b></p>
+                                                <h4 class="name">KHUSHI</h4>
+                                                <p>478 (96.60%)</p>
+                                                <p><b>Session 2024-25</b></p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/tannu.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Tannu</h4>
-                                                <p>468 (93.60%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/muskan.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Muskaan</h4>
-                                                <p>468 (93.60%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/swati.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Swati</h4>
-                                                <p>464 (92.80%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/monika.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Monika</h4>
-                                                <p>463 (92.60%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/neha.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Neha</h4>
-                                                <p>461 (92.20%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-3 col-sm-6">
-                                        <div class="single-team-02">
-                                            <div class="team-img">
-                                                <img src="assets/images/result/class-12/2024-25/arts/anju.JPG" class="my-image" alt="">
-                                            </div>
-                                            <div class="team-content text-center">
-                                                <h4 class="name">Anju</h4>
-                                                <p>449 (89.80%)</p>
-                                                <p><b>Session 2023-24</b></p>
-                                            </div>
-                                        </div>
-                                    </div>
-
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-
                 </div>
                 <!--   <div class="col-lg-4">
                     <div class="blog-sidebar">
