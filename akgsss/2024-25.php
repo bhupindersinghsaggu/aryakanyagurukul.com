@@ -91,7 +91,7 @@ include('_web/header.php')
                             <h4 class="stm">Non-Medical</h4>
                             <div class="blog-content">
                                 <div class="row">
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/non-medical/4.png" class="my-image" alt="">
@@ -103,7 +103,7 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/non-medical/5.png" class="my-image" alt="">
@@ -115,7 +115,7 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/non-medical/6.png" class="my-image" alt="">
@@ -223,7 +223,7 @@ include('_web/header.php')
                             <h4 class="stm">Arts</h4>
                             <div class="blog-content">
                                 <div class="row">
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/arts/9.png" class="my-image" alt="">
@@ -235,7 +235,7 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/arts/10.png" class="my-image" alt="">
@@ -247,7 +247,7 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/arts/11.png" class="my-image" alt="">
@@ -259,7 +259,7 @@ include('_web/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6">
+                                    <div class="col-lg-4 col-sm-6">
                                         <div class="single-team-02">
                                             <div class="team-img result-img">
                                                 <img src="assets/images/result/class-12/2024/arts/12.png" class="my-image" alt="">
