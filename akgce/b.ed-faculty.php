@@ -257,7 +257,7 @@ M.Ed. "
                             <td style="width:74.85pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:44.2pt;">
                                 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:.0001pt;margin-left:0cm;line-height:  normal;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:16px;font-family:"Arial","sans-serif";'>4 Year</span></p>
                             </td>
-                            <td width="142"><strong>&nbsp;<a href="img/staff/b.ed/sonia.jpg" rel="attachment wp-att-728"><img loading="lazy" class="alignnone size-medium wp-image-728" src="img/staff/b.ed/sonia.jpg"></a></strong></td>
+                            <td width="142"><strong>&nbsp;<a href="img/staff/b.ed/sonia4.jpg" rel="attachment wp-att-728"><img loading="lazy" class="alignnone size-medium wp-image-728" src="img/staff/b.ed/sonia4.jpg"></a></strong></td>
                         </tr>
                     </tbody>
                 </table>
