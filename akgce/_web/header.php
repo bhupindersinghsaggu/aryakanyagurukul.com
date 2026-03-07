@@ -144,7 +144,7 @@
                                                 <li><a href="b.ed-faculty.php">B.Ed Faculty</a></li>
                                                 <li><a href="d.el.ed-faculty.php">D El.Ed. Faculty</a></li>
                                                 <li><a href="administrative-staff.php">Non-Teachning Staff</a></li>
-                                                <li> <a href="img/pdf/Committee-name.pdf" class="nav-link">Committees/Academic</a></li>
+                                                <li> <a href="img/pdf/Committee-name2.pdf" class="nav-link">Committees/Academic</a></li>
                                             </ul>
                                         </li>
                                         <li class="nav-item">
